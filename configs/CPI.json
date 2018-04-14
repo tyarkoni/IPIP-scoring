@@ -1,0 +1,7 @@
+{
+	"url": "https://ipip.ori.org/newCPIKey.htm",
+	"scale_title": "\\[",
+	"extract_title": "(.*)\\s*\\[",
+	"start_line": "^ASSERT",
+	"end_line": "^Return to"
+}

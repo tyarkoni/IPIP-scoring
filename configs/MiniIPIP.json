@@ -1,0 +1,7 @@
+{
+	"url": "https://ipip.ori.org/MiniIPIPKey.htm",
+	"scale_title": "^Factor",
+	"extract_title": "(.*)\\s*\\(",
+	"start_line": "^Factor",
+	"end_line": "^aThe abstract"
+}

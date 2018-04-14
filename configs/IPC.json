@@ -1,0 +1,7 @@
+{
+	"url": "https://ipip.ori.org/newIPIP-IPCScoringKey.htm",
+	"scale_title": "^[A-Z]{2}\\s*.*\\)$",
+	"extract_title": "^[A-Z]{2}\\s*.*?(\\w+)\\)$",
+	"start_line": "^PA \\(Assured",
+	"end_line": "^Markey"
+}

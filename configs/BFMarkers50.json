@@ -1,0 +1,10 @@
+{
+	"url": "https://ipip.ori.org/newBigFive5broadKey.htm",
+	"scale_title": "^Factor [IV]",
+	"extract_title": "(.*)",
+	"start_line": "^Factor",
+	"end_line": "^Return to",
+	"skip_onset": "20-item",
+	"skip_offset": "Factor",
+	"skip": "10-item"
+}

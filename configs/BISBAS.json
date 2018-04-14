@@ -1,0 +1,5 @@
+{
+	"url": "https://ipip.ori.org/newBIS_BASkey.htm",
+	"start_line": "^BIS",
+	"end_line": "^Return to"
+}

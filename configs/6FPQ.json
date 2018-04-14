@@ -1,0 +1,8 @@
+{
+	"url": "https://ipip.ori.org/new6FPQKey.htm",
+	"scale_title": "^[A-Z]{4}",
+	"start_line": "^EXTRAVERSION",
+	"end_line": "^\\(No reverse",
+	"extract_title": "(.*?)\\s*\\(",
+	"skip": "Lower-Level|Higher-Level"
+}

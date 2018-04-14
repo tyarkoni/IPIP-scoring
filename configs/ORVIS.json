@@ -1,0 +1,7 @@
+{
+	"url": "https://ipip.ori.org/newORVISKey.htm",
+	"start_line": "^Leadership",
+	"end_line": "^For additional",
+	"scale_title": "^[A-Z][a-z]+$",
+	"extract_title": "(.*)"
+}

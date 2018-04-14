@@ -1,0 +1,12 @@
+{
+	"key_sign": "^([+-])\\s+[kK]eyed",
+	"scale_title": "\\[",
+	"extract_title": "(.*)\\s*\\[",
+	"item": ".*",
+	"extract_item": "(.*)",
+	"start_line": ".*",
+	"end_line": "!!!NOMATCH!!!",
+	"skip": "!!!NOMATCH!!!",
+	"skip_onset": "!!!NOMATCH!!!",
+	"skip_offset": "!!!NOMATCH!!!"
+}

@@ -1,0 +1,101 @@
+item	Volatility	Withdrawal	Compassion	Politeness	Industriousness	Orderliness	Enthusiasm	Assertiveness	Intellect	Openness
+Get angry easily.	1	0	0	0	0	0	0	0	0	0
+Get upset easily.	-1	0	0	0	0	0	0	0	0	0
+Change my mood a lot.	-1	0	0	0	0	0	0	0	0	0
+Am a person whose moods go up and down easily.	-1	0	0	0	0	0	0	0	0	0
+Get easily agitated.	-1	0	0	0	0	0	0	0	0	0
+Can be stirred up easily.	-1	0	0	0	0	0	0	0	0	0
+Rarely get irritated.	-1	0	0	0	0	0	0	0	0	0
+Keep my emotions under control.	-1	0	0	0	0	0	0	0	0	0
+Rarely lose my composure.	-1	0	0	0	0	0	0	0	0	0
+Am not easily annoyed.	-1	0	0	0	0	0	0	0	0	0
+Am filled with doubts about things.	0	1	0	0	0	0	0	0	0	0
+Feel threatened easily.	0	-1	0	0	0	0	0	0	0	0
+Worry about things.	0	-1	0	0	0	0	0	0	0	0
+Am easily discouraged.	0	-1	0	0	0	0	0	0	0	0
+Become overwhelmed by events.	0	-1	0	0	0	0	0	0	0	0
+Am afraid of many things.	0	-1	0	0	0	0	0	0	0	0
+Seldom feel blue.	0	-1	0	0	0	0	0	0	0	0
+Feel comfortable with myself.	0	-1	0	0	0	0	0	0	0	0
+Rarely feel depressed.	0	-1	0	0	0	0	0	0	0	0
+Am not embarrassed easily.	0	-1	0	0	0	0	0	0	0	0
+Feel others' emotions.	0	0	1	0	0	0	0	0	0	0
+Inquire about others' well-being.	0	0	-1	0	0	0	0	0	0	0
+Sympathize with others' feelings.	0	0	-1	0	0	0	0	0	0	0
+Take an interest in other people's lives.	0	0	-1	0	0	0	0	0	0	0
+Like to do things for others.	0	0	-1	0	0	0	0	0	0	0
+Am not interested in other people's problems.	0	0	-1	0	0	0	0	0	0	0
+Can't be bothered with other's needs.	0	0	-1	0	0	0	0	0	0	0
+Am indifferent to the feelings of others.	0	0	-1	0	0	0	0	0	0	0
+Take no time for others.	0	0	-1	0	0	0	0	0	0	0
+Don't have a soft side.	0	0	-1	0	0	0	0	0	0	0
+Respect authority.	0	0	0	1	0	0	0	0	0	0
+Hate to seem pushy.	0	0	0	-1	0	0	0	0	0	0
+Avoid imposing my will on others.a	0	0	0	-1	0	0	0	0	0	0
+Rarely put people under pressure.b	0	0	0	-1	0	0	0	0	0	0
+Insult people.	0	0	0	-1	0	0	0	0	0	0
+Believe that I am better than others.	0	0	0	-1	0	0	0	0	0	0
+Take advantage of others.	0	0	0	-1	0	0	0	0	0	0
+Seek conflict.	0	0	0	-1	0	0	0	0	0	0
+Love a good fight.	0	0	0	-1	0	0	0	0	0	0
+Am out for my own personal gain.	0	0	0	-1	0	0	0	0	0	0
+Carry out my plans.	0	0	0	0	1	0	0	0	0	0
+Finish what I start.	0	0	0	0	-1	0	0	0	0	0
+Get things done quickly.	0	0	0	0	-1	0	0	0	0	0
+Always know what I am doing.	0	0	0	0	-1	0	0	0	0	0
+Waste my time.	0	0	0	0	-1	0	0	0	0	0
+Find it difficult to get down to work.	0	0	0	0	-1	0	0	0	0	0
+Mess things up.	0	0	0	0	-1	0	0	0	0	0
+Don't put my mind on the task at hand.	0	0	0	0	-1	0	0	0	0	0
+Postpone decisions.	0	0	0	0	-1	0	0	0	0	0
+Am easily distracted.	0	0	0	0	-1	0	0	0	0	0
+Like order.	0	0	0	0	0	1	0	0	0	0
+Keep things tidy.	0	0	0	0	0	-1	0	0	0	0
+Follow a schedule.	0	0	0	0	0	-1	0	0	0	0
+Want everything to be just right.	0	0	0	0	0	-1	0	0	0	0
+See that rules are observed.	0	0	0	0	0	-1	0	0	0	0
+Want every detail taken care of.	0	0	0	0	0	-1	0	0	0	0
+Leave my belongings around.	0	0	0	0	0	-1	0	0	0	0
+Am not bothered by messy people.	0	0	0	0	0	-1	0	0	0	0
+Am not bothered by disorder.	0	0	0	0	0	-1	0	0	0	0
+Dislike routine.	0	0	0	0	0	-1	0	0	0	0
+Make friends easily.	0	0	0	0	0	0	1	0	0	0
+Warm up quickly to others.	0	0	0	0	0	0	-1	0	0	0
+Show my feelings when I'm happy.	0	0	0	0	0	0	-1	0	0	0
+Have a lot of fun.	0	0	0	0	0	0	-1	0	0	0
+Laugh a lot.	0	0	0	0	0	0	-1	0	0	0
+Am hard to get to know.	0	0	0	0	0	0	-1	0	0	0
+Keep others at a distance.	0	0	0	0	0	0	-1	0	0	0
+Reveal little about myself.	0	0	0	0	0	0	-1	0	0	0
+Rarely get caught up in the excitement.	0	0	0	0	0	0	-1	0	0	0
+Am not a very enthusiastic person.c	0	0	0	0	0	0	-1	0	0	0
+Take charge.	0	0	0	0	0	0	0	1	0	0
+Have a strong personality.	0	0	0	0	0	0	0	-1	0	0
+Know how to captivate people.	0	0	0	0	0	0	0	-1	0	0
+See myself as a good leader.	0	0	0	0	0	0	0	-1	0	0
+Can talk others into doing things.	0	0	0	0	0	0	0	-1	0	0
+Am the first to act.	0	0	0	0	0	0	0	-1	0	0
+Do not have an assertive personality.d	0	0	0	0	0	0	0	-1	0	0
+Lack the talent for influencing people.	0	0	0	0	0	0	0	-1	0	0
+Wait for others to lead the way.	0	0	0	0	0	0	0	-1	0	0
+Hold back my opinions.	0	0	0	0	0	0	0	-1	0	0
+Am quick to understand things.	0	0	0	0	0	0	0	0	1	0
+Can handle a lot of information.	0	0	0	0	0	0	0	0	-1	0
+Like to solve complex problems.	0	0	0	0	0	0	0	0	-1	0
+Have a rich vocabulary.	0	0	0	0	0	0	0	0	-1	0
+Think quickly.	0	0	0	0	0	0	0	0	-1	0
+Formulate ideas clearly.	0	0	0	0	0	0	0	0	-1	0
+Have difficulty understanding abstract ideas.	0	0	0	0	0	0	0	0	-1	0
+Avoid philosophical discussions.	0	0	0	0	0	0	0	0	-1	0
+Avoid difficult reading material.	0	0	0	0	0	0	0	0	-1	0
+Learn things slowly.	0	0	0	0	0	0	0	0	-1	0
+Enjoy the beauty of nature.	0	0	0	0	0	0	0	0	0	1
+Believe in the importance of art.	0	0	0	0	0	0	0	0	0	-1
+Love to reflect on things.	0	0	0	0	0	0	0	0	0	-1
+Get deeply immersed in music.	0	0	0	0	0	0	0	0	0	-1
+See beauty in things that others might not notice.	0	0	0	0	0	0	0	0	0	-1
+Need a creative outlet.	0	0	0	0	0	0	0	0	0	-1
+Do not like poetry.	0	0	0	0	0	0	0	0	0	-1
+Seldom get lost in thought.	0	0	0	0	0	0	0	0	0	-1
+Seldom daydream.	0	0	0	0	0	0	0	0	0	-1
+Seldom notice the emotional aspects of paintings and pictures.	0	0	0	0	0	0	0	0	0	-1

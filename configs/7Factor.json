@@ -1,0 +1,7 @@
+{
+	"url": "https://ipip.ori.org/new7FactorKey.htm",
+	"scale_title": "[A-Z]+.*\\[.*\\d+.*]",
+	"start_line": "^FACTOR",
+	"end_line": "No negatively",
+	"extract_title": "([^\\[]+)" 
+}

@@ -1,0 +1,101 @@
+item	Factor I (Surgency or Extraversion)	Factor II (Agreeableness)	Factor III (Conscientiousness)	Factor IV (Emotional Stability)	Factor V (Intellect or Imagination)
+Am the life of the party.	1	0	0	0	0
+Feel comfortable around people.	-1	0	0	0	0
+Start conversations.	-1	0	0	0	0
+Talk to a lot of different people at parties.	-1	0	0	0	0
+Don't mind being the center of attention.	-1	0	0	0	0
+Make friends easily.	-1	0	0	0	0
+Take charge.	-1	0	0	0	0
+Know how to captivate people.	-1	0	0	0	0
+Feel at ease with people.	-1	0	0	0	0
+Am skilled in handling social situations.	-1	0	0	0	0
+Don't talk a lot.	-1	0	0	0	0
+Keep in the background.	-1	0	0	0	0
+Have little to say.	-1	0	0	0	0
+Don't like to draw attention to myself.	-1	0	0	0	0
+Am quiet around strangers.	-1	0	0	0	0
+Find it difficult to approach others.	-1	0	0	0	0
+Often feel uncomfortable around others.	-1	0	0	0	0
+Bottle up my feelings.	-1	0	0	0	0
+Am a very private person.	-1	0	0	0	0
+Wait for others to lead the way.	-1	0	0	0	0
+Am interested in people.	0	1	0	0	0
+Sympathize with others' feelings.	0	-1	0	0	0
+Have a soft heart.	0	-1	0	0	0
+Take time out for others.	0	-1	0	0	0
+Feel others' emotions.	0	-1	0	0	0
+Make people feel at ease.	0	-1	0	0	0
+Inquire about others' well-being.	0	-1	0	0	0
+Know how to comfort others.	0	-1	0	0	0
+Love children.	0	-1	0	0	0
+Am on good terms with nearly everyone.	0	-1	0	0	0
+Have a good word for everyone.	0	-1	0	0	0
+Show my gratitude.	0	-1	0	0	0
+Think of others first.	0	-1	0	0	0
+Love to help others.	0	-1	0	0	0
+Insult people.	0	-1	0	0	0
+Am not interested in other people's problems.	0	-1	0	0	0
+Feel little concern for others.	0	-1	0	0	0
+Am not really interested in others.	0	-1	0	0	0
+Am hard to get to know.	0	-1	0	0	0
+Am indifferent to the feelings of others.	0	-1	0	0	0
+Am always prepared.	0	0	1	0	0
+Pay attention to details.	0	0	-1	0	0
+Get chores done right away.	0	0	-1	0	0
+Like order.	0	0	-1	0	0
+Follow a schedule.	0	0	-1	0	0
+Am exacting in my work.	0	0	-1	0	0
+Do things according to a plan.	0	0	-1	0	0
+Continue until everything is perfect.	0	0	-1	0	0
+Make plans and stick to them.	0	0	-1	0	0
+Love order and regularity.	0	0	-1	0	0
+Like to tidy up.	0	0	-1	0	0
+Leave my belongings around.	0	0	-1	0	0
+Make a mess of things.	0	0	-1	0	0
+Often forget to put things back in their proper place.	0	0	-1	0	0
+Shirk my duties.	0	0	-1	0	0
+Neglect my duties.	0	0	-1	0	0
+Waste my time.	0	0	-1	0	0
+Do things in a half-way manner.	0	0	-1	0	0
+Find it difficult to get down to work.	0	0	-1	0	0
+Leave a mess in my room.	0	0	-1	0	0
+Am relaxed most of the time.	0	0	0	1	0
+Seldom feel blue.	0	0	0	-1	0
+Am not easily bothered by things.	0	0	0	-1	0
+Rarely get irritated.	0	0	0	-1	0
+Seldom get mad.	0	0	0	-1	0
+Get stressed out easily.	0	0	0	-1	0
+Worry about things.	0	0	0	-1	0
+Am easily disturbed.	0	0	0	-1	0
+Get upset easily.	0	0	0	-1	0
+Change my mood a lot.	0	0	0	-1	0
+Have frequent mood swings.	0	0	0	-1	0
+Get irritated easily.	0	0	0	-1	0
+Often feel blue.	0	0	0	-1	0
+Get angry easily.	0	0	0	-1	0
+Panic easily.	0	0	0	-1	0
+Feel threatened easily.	0	0	0	-1	0
+Get overwhelmed by emotions.	0	0	0	-1	0
+Take offense easily.	0	0	0	-1	0
+Get caught up in my problems.	0	0	0	-1	0
+Grumble about things.	0	0	0	-1	0
+Have a rich vocabulary.	0	0	0	0	1
+Have a vivid imagination.	0	0	0	0	-1
+Have excellent ideas.	0	0	0	0	-1
+Am quick to understand things.	0	0	0	0	-1
+Use difficult words.	0	0	0	0	-1
+Spend time reflecting on things.	0	0	0	0	-1
+Am full of ideas.	0	0	0	0	-1
+Carry the conversation to a higher level.	0	0	0	0	-1
+Catch on to things quickly.	0	0	0	0	-1
+Can handle a lot of information.	0	0	0	0	-1
+Love to think up new ways of doing things.	0	0	0	0	-1
+Love to read challenging material.	0	0	0	0	-1
+Am good at many things.	0	0	0	0	-1
+Have difficulty understanding abstract ideas.	0	0	0	0	-1
+Am not interested in abstract ideas.	0	0	0	0	-1
+Do not have a good imagination.	0	0	0	0	-1
+Try to avoid complex people.	0	0	0	0	-1
+Have difficulty imagining things.	0	0	0	0	-1
+Avoid difficult reading material.	0	0	0	0	-1
+Will not probe deeply into a subject.	0	0	0	0	-1

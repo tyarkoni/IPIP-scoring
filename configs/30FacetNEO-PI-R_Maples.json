@@ -1,0 +1,7 @@
+{
+	"url": "https://ipip.ori.org/30FacetNEO-PI-RItems_Maples_etal.htm",
+	"scale_title": "[A-Z]\\d\\:\\s+[A-Z]+.*\\)",
+	"start_line": "^N1:",
+	"end_line": "^Maples",
+	"extract_title": "^([A-Z]\\d:\\s*.*?)\\s*\\(" 
+}

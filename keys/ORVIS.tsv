@@ -1,0 +1,93 @@
+item	Leadership	Organization	Altruism	Creativity	Analysis	Production	Adventure	Erudition
+Make important things happen	1	0	0	0	0	0	0	0
+Lead other people	-1	0	0	0	0	0	0	0
+Be a sales or marketing director	-1	0	0	0	0	0	0	0
+Be the chief executive of a large company	-1	0	0	0	0	0	0	0
+Organize a political campaign	-1	0	0	0	0	0	0	0
+Be the master of ceremonies at a meeting	-1	0	0	0	0	0	0	0
+Plan an advertising campaign	-1	0	0	0	0	0	0	0
+Debate topics in a public meeting	-1	0	0	0	0	0	0	0
+Persuade others to change their views	-1	0	0	0	0	0	0	0
+Be a state governor or senator	-1	0	0	0	0	0	0	0
+Run for political office	-1	0	0	0	0	0	0	0
+Make decisions that affect a lot of people	-1	0	0	0	0	0	0	0
+Be the financial officer for a company	0	1	0	0	0	0	0	0
+Be an office manager	0	-1	0	0	0	0	0	0
+Plan budgets	0	-1	0	0	0	0	0	0
+Prepare financial contracts	0	-1	0	0	0	0	0	0
+Develop an office filing system	0	-1	0	0	0	0	0	0
+Supervise the work of others	0	-1	0	0	0	0	0	0
+Plan investment strategies	0	-1	0	0	0	0	0	0
+Establish time schedules	0	-1	0	0	0	0	0	0
+Monitor business expenses	0	-1	0	0	0	0	0	0
+Be a purchasing agent	0	-1	0	0	0	0	0	0
+Keep track of a company's inventory	0	-1	0	0	0	0	0	0
+Manage a computer data base	0	-1	0	0	0	0	0	0
+Keep detailed records	0	-1	0	0	0	0	0	0
+Help others learn new ideas	0	0	1	0	0	0	0	0
+Care for sick people	0	0	-1	0	0	0	0	0
+Be an elementary-school teacher	0	0	-1	0	0	0	0	0
+Be a social worker	0	0	-1	0	0	0	0	0
+Be a minister, priest, rabbi or other religious teacher	0	0	-1	0	0	0	0	0
+Counsel persons who need help	0	0	-1	0	0	0	0	0
+Instruct parents on child care	0	0	-1	0	0	0	0	0
+Be a doctor or nurse	0	0	-1	0	0	0	0	0
+Be a physical therapist	0	0	-1	0	0	0	0	0
+Provide comfort and support to others	0	0	-1	0	0	0	0	0
+Participate in charity events	0	0	-1	0	0	0	0	0
+Help people make career decisions	0	0	-1	0	0	0	0	0
+Be a counselor or therapist	0	0	-1	0	0	0	0	0
+Create works of art	0	0	0	1	0	0	0	0
+Create new fashion designs	0	0	0	-1	0	0	0	0
+Be a professional dancer	0	0	0	-1	0	0	0	0
+Write short stories or novels	0	0	0	-1	0	0	0	0
+Play an instrument in a symphony	0	0	0	-1	0	0	0	0
+Redecorate one's house	0	0	0	-1	0	0	0	0
+Select art works for a museum	0	0	0	-1	0	0	0	0
+Sing professionally	0	0	0	-1	0	0	0	0
+Be an actor or actress	0	0	0	-1	0	0	0	0
+Be an artist or architect	0	0	0	-1	0	0	0	0
+Act in a play	0	0	0	-1	0	0	0	0
+Design Internet web pages	0	0	0	-1	0	0	0	0
+Write songs	0	0	0	-1	0	0	0	0
+Paint or draw	0	0	0	-1	0	0	0	0
+Be a chemist	0	0	0	0	1	0	0	0
+Design a laboratory experiment	0	0	0	0	-1	0	0	0
+Be a mathematician	0	0	0	0	-1	0	0	0
+Explain scientific concepts to others	0	0	0	0	-1	0	0	0
+Be a physicist	0	0	0	0	-1	0	0	0
+Carry out medical research	0	0	0	0	-1	0	0	0
+Be a scientific reporter	0	0	0	0	-1	0	0	0
+Solve complex puzzles	0	0	0	0	-1	0	0	0
+Develop a computer program	0	0	0	0	-1	0	0	0
+Be a statistician	0	0	0	0	-1	0	0	0
+Care for cattle or horses	0	0	0	0	0	1	0	0
+Be a farmer	0	0	0	0	0	-1	0	0
+Construct new buildings	0	0	0	0	0	-1	0	0
+Be a forest ranger	0	0	0	0	0	-1	0	0
+Cultivate plants	0	0	0	0	0	-1	0	0
+Go on nature walks	0	0	0	0	0	-1	0	0
+Do woodworking	0	0	0	0	0	-1	0	0
+Raise flowers	0	0	0	0	0	-1	0	0
+Repair cars or trucks	0	0	0	0	0	-1	0	0
+Work with tools and machinery	0	0	0	0	0	-1	0	0
+Be a professional athlete	0	0	0	0	0	0	1	0
+Engage in exciting adventures	0	0	0	0	0	0	-1	0
+Survive in the wilderness	0	0	0	0	0	0	-1	0
+Be a racing car driver	0	0	0	0	0	0	-1	0
+Face physical danger	0	0	0	0	0	0	-1	0
+Be a military officer	0	0	0	0	0	0	-1	0
+Compete in athletic events	0	0	0	0	0	0	-1	0
+Be a bounty hunter	0	0	0	0	0	0	-1	0
+Be a long-distance bicycle rider	0	0	0	0	0	0	-1	0
+Be a police officer	0	0	0	0	0	0	-1	0
+Be a translator or interpreter	0	0	0	0	0	0	0	1
+Be a librarian	0	0	0	0	0	0	0	-1
+Be a professor of English	0	0	0	0	0	0	0	-1
+Make up word puzzles	0	0	0	0	0	0	0	-1
+Edit a newspaper	0	0	0	0	0	0	0	-1
+Know many languages	0	0	0	0	0	0	0	-1
+Be a foreign correspondent	0	0	0	0	0	0	0	-1
+Speak fluently on any subject	0	0	0	0	0	0	0	-1
+Read many books	0	0	0	0	0	0	0	-1
+Keep a diary or journal	0	0	0	0	0	0	0	-1

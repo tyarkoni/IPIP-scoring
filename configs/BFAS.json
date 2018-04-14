@@ -1,0 +1,8 @@
+{
+	"url": "https://ipip.ori.org/BFASKeys.htm",
+	"scale_title": "^[A-za-z\\/]+$",
+	"extract_title": "(.*)",
+	"start_line": "Volatility",
+	"end_line": "Note.",
+	"skip": "Alpha"
+}

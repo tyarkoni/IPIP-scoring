@@ -1,0 +1,8 @@
+{
+	"url": "https://ipip.ori.org/newVIAKey.htm",
+	"start_line": "^Appreciation",
+	"end_line": "^Return to",
+	"extract_title": "(.*?)\\s*\\(" ,
+	"skip_onset": "Omitted",
+	"skip_offset": "\\["
+}

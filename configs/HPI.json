@@ -1,0 +1,8 @@
+{
+	"url": "https://ipip.ori.org/newHPIKeys.htm",
+	"scale_title": "\\[.*?\\]$",
+	"start_line": "^Stability",
+	"end_line": "^Return to",
+	"extract_title": "(.*?)\\[",
+	"skip": "Lower-Level"
+}

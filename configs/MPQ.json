@@ -1,0 +1,7 @@
+{
+	"url": "https://ipip.ori.org/newMPQKey.htm",
+	"scale_title": "\\[",
+	"extract_title": "(.*)\\s*\\[",
+	"start_line": "^JOYFULNESS",
+	"end_line": "^Return to"
+}

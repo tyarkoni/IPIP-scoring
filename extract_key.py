@@ -182,7 +182,7 @@ for f in measure_configs:
         df.index = df.index.str.lower().str.replace('[^a-zA-Z0-9\s]+', '')
         df = df.merge(ipip_items, left_index=True, right_index=True,
                       how='left')
-        df.insert(1, 'ipip_id', df.pop('id'))
+        df.insert(0, 'ipip_id', df.pop('id'))
 
         # Display missing items
         missing = set(df.index) - set(ipip_items.index)

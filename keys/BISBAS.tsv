@@ -1,37 +1,37 @@
-item	BIS (ANXIETY) 	ipip_id	BAS/FUN-SEEKING 	BAS/DRIVE 	BAS/REWARD-RESPONSIVENESS 
-Worry about what people think of me.	1	P420	0	0	0
-Am always worried about something.	1	D96	0	0	0
-Often worry about things that turn out to be unimportant.	1	D71	0	0	0
-Am afraid that I will do the wrong thing.	1	H905	0	0	0
-Am easily hurt.	1	H987	0	0	0
-Begin to panic when there is danger.	1	Q50	0	0	0
-Become overwhelmed by events.	1	H959	0	0	0
-Get stressed out easily.	1	X107	0	0	0
-Rarely worry.	-1	D79	0	0	0
-Am not embarrassed easily.	-1	X242	0	0	0
-Like to behave spontaneously.	0	D58	1	0	0
-Have persuaded others to do something really adventurous or crazy.	0	R58	1	0	0
-Am willing to try anything once.	0	X3	1	0	0
-Like to act on a whim.	0	E122	1	0	0
-Prefer friends who are excitingly unpredictable.	0	R5	1	0	0
-Do crazy things.	0	H870	1	0	0
-Enjoy being reckless.	0	E35	1	0	0
-Would never go hang gliding or bungee jumping.	0		-1	0	0
-Rarely enjoy behaving in a silly manner.	0	D75	-1	0	0
-Avoid dangerous situations.	0	H317	-1	0	0
-Want to be in charge.	0	H793	0	1	0
-Try to surpass others' accomplishments.	0	H1193	0	1	0
-Like to show off my body.	0	P474	0	1	0
-Know how to get around the rules.	0	H1327	0	1	0
-Have a strong need for power.	0	P445	0	1	0
-Take charge.	0	H334, X27	0	1	0
-Push myself very hard to succeed.	0	Q204	0	1	0
-Am not highly motivated to succeed.	0	X110	0	-1	0
-Am not an extraordinary person.	0	P462	0	-1	0
-Hate being the center of attention.	0	P434	0	-1	0
-Feel excited or happy for no apparent reason.	0	R33	0	0	1
-Get caught up in the excitement when others are celebrating.	0	A71	0	0	1
-Am eager to soothe hurt feelings.	0	Q117	0	0	1
-Get so happy or energetic that I am almost giddy.	0	R43	0	0	1
-Rarely get caught up in the excitement.	0	A13	0	0	-1
-Don't get excited about things.	0	H572	0	0	-1
+item	ipip_id	BIS (ANXIETY) 	BAS/FUN-SEEKING 	BAS/DRIVE 	BAS/REWARD-RESPONSIVENESS 
+Worry about what people think of me.	P420	1	0	0	0
+Am always worried about something.	D96	1	0	0	0
+Often worry about things that turn out to be unimportant.	D71	1	0	0	0
+Am afraid that I will do the wrong thing.	H905	1	0	0	0
+Am easily hurt.	H987	1	0	0	0
+Begin to panic when there is danger.	Q50	1	0	0	0
+Become overwhelmed by events.	H959	1	0	0	0
+Get stressed out easily.	X107	1	0	0	0
+Rarely worry.	D79	-1	0	0	0
+Am not embarrassed easily.	X242	-1	0	0	0
+Like to behave spontaneously.	D58	0	1	0	0
+Have persuaded others to do something really adventurous or crazy.	R58	0	1	0	0
+Am willing to try anything once.	X3	0	1	0	0
+Like to act on a whim.	E122	0	1	0	0
+Prefer friends who are excitingly unpredictable.	R5	0	1	0	0
+Do crazy things.	H870	0	1	0	0
+Enjoy being reckless.	E35	0	1	0	0
+Would never go hang gliding or bungee jumping.		0	-1	0	0
+Rarely enjoy behaving in a silly manner.	D75	0	-1	0	0
+Avoid dangerous situations.	H317	0	-1	0	0
+Want to be in charge.	H793	0	0	1	0
+Try to surpass others' accomplishments.	H1193	0	0	1	0
+Like to show off my body.	P474	0	0	1	0
+Know how to get around the rules.	H1327	0	0	1	0
+Have a strong need for power.	P445	0	0	1	0
+Take charge.	H334, X27	0	0	1	0
+Push myself very hard to succeed.	Q204	0	0	1	0
+Am not highly motivated to succeed.	X110	0	0	-1	0
+Am not an extraordinary person.	P462	0	0	-1	0
+Hate being the center of attention.	P434	0	0	-1	0
+Feel excited or happy for no apparent reason.	R33	0	0	0	1
+Get caught up in the excitement when others are celebrating.	A71	0	0	0	1
+Am eager to soothe hurt feelings.	Q117	0	0	0	1
+Get so happy or energetic that I am almost giddy.	R43	0	0	0	1
+Rarely get caught up in the excitement.	A13	0	0	0	-1
+Don't get excited about things.	H572	0	0	0	-1

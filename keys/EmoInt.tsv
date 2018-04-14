@@ -1,69 +1,69 @@
-item	POSITIVE EXPRESSIVITY 	ipip_id	NEGATIVE EXPRESSIVITY 	ATTENDING TO EMOTIONS 	EMOTION-BASED DECISION-MAKING 	RESPONSIVE JOY 	RESPONSIVE DISTRESS 	EMPATHIC CONCERN 
-Express my affection physically.	1	H24	0	0	0	0	0	0
-Laugh out loud if something is funny.	1	A5	0	0	0	0	0	0
-Express my happiness in a childlike manner.	1	A7	0	0	0	0	0	0
-Sometimes laugh out loud when reading or watching TV.	1	A48	0	0	0	0	0	0
-Hug my close friends.	1	A79	0	0	0	0	0	0
-Show my feelings when I'm happy.	1	A139	0	0	0	0	0	0
-Find it difficult showing people that I care about them.	-1	A4	0	0	0	0	0	0
-Have difficulty showing affection.	-1	A132	0	0	0	0	0	0
-Keep my happy feelings to myself.	-1	A84	0	0	0	0	0	0
-Shout or scream when I'm angry.	0	A3	1	0	0	0	0	0
-Can't help but look upset when something bad happens.	0	A14	1	0	0	0	0	0
-Show my fear.	0	A54	1	0	0	0	0	0
-Suspect that my facial expressions give me away when I feel sad.	0	A80	1	0	0	0	0	0
-Show my sadness.	0	A101	1	0	0	0	0	0
-Keep my feelings to myself, regardless of how unhappy I am.	0	A10	-1	0	0	0	0	0
-Find it difficult showing people that I'm angry with them.	0	A12	-1	0	0	0	0	0
-Keep my feelings to myself, regardless of how scared I am.	0	A130	-1	0	0	0	0	0
-Rarely show my anger.	0	A66	-1	0	0	0	0	0
-Wish I could more easily show my negative feelings.	0	A28	-1	0	0	0	0	0
-Think about the causes of my emotions.	0	A33	0	1	0	0	0	0
-Pay a lot of attention to my feelings.	0	A116	0	1	0	0	0	0
-Am usually aware of the way that I'm feeling.	0	A122	0	1	0	0	0	0
-Notice my emotions.	0	A134	0	1	0	0	0	0
-Often stop to analyze how I'm feeling.	0	A142	0	1	0	0	0	0
-Rarely think about how I feel.	0	A87	0	-1	0	0	0	0
-Rarely analyze my emotions.	0	A106	0	-1	0	0	0	0
-Am not in touch with my feelings.	0	E9	0	-1	0	0	0	0
-Often ignore my feelings.	0	X183	0	-1	0	0	0	0
-Rarely notice my emotional reactions.	0	X10	0	-1	0	0	0	0
-Listen to my feelings when making important decisions.	0	A15	0	0	1	0	0	0
-Base my goals in life on inspiration, rather than logic.	0	A26	0	0	1	0	0	0
-Plan my life based on how I feel.	0	A69	0	0	1	0	0	0
-Believe emotions give direction to life.	0		0	0	1	0	0	0
-Listen to my heart rather than my brain.	0	X199	0	0	1	0	0	0
-Plan my life logically.	0	A97	0	0	-1	0	0	0
-Believe important decisions should be based on logical reasoning.	0		0	0	-1	0	0	0
-Listen to my brain rather than my heart.	0	H378	0	0	-1	0	0	0
-Make decisions based on facts, not feelings.	0	A113	0	0	-1	0	0	0
-Like to watch children open presents.	0	A1	0	0	0	1	0	0
-Usually end up laughing if the people around me are laughing.	0	A16	0	0	0	1	0	0
-Feel other people's joy.	0	A63	0	0	0	1	0	0
-Get caught up in the excitement when others are celebrating.	0	A71	0	0	0	1	0	0
-Am strongly influenced by the good moods of others.	0	A72	0	0	0	1	0	0
-Find it hard to stay in a bad mood if the people around me are happy.	0	A76	0	0	0	1	0	0
-Dislike being around happy people when I'm feeling sad.	0	A2	0	0	0	-1	0	0
-Am unaffected by other people's happiness.	0	A11	0	0	0	-1	0	0
-Rarely get caught up in the excitement.	0	A13	0	0	0	-1	0	0
-Dislike children's birthday parties.	0	A42	0	0	0	-1	0	0
-Am deeply moved by others' misfortunes.	0	X253	0	0	0	0	1	0
-Am easily moved to tears.	0	H992	0	0	0	0	1	0
-Suffer from others' sorrows.	0	H988, X65	0	0	0	0	1	0
-Am upset by the misfortunes of strangers.	0	A135	0	0	0	0	1	0
-Would be upset if I saw an injured animal.	0	A46	0	0	0	0	1	0
-Am calm even in tense situations.	0	E64	0	0	0	0	-1	0
-Am not easily disturbed by events.	0	H1046, X11	0	0	0	0	-1	0
-Am unaffected by the suffering of others.	0	A67	0	0	0	0	-1	0
-Rarely cry during sad movies.	0	A56	0	0	0	0	-1	0
-Remain calm during emergencies.	0	A128	0	0	0	0	-1	0
-Am concerned about others.	0	H1100, X31	0	0	0	0	0	1
-Feel sympathy for those who are worse off than myself.	0	E115	0	0	0	0	0	1
-Sympathize with the homeless.	0	X259	0	0	0	0	0	1
-Believe that criminals should receive help rather than punishment.	0	X219	0	0	0	0	0	1
-Believe that the poor deserve our sympathy.	0	A24	0	0	0	0	0	1
-Feel little concern for others.	0	X244	0	0	0	0	0	-1
-Have no sympathy for criminals.	0	E169	0	0	0	0	0	-1
-Look down on any weakness.	0	H435	0	0	0	0	0	-1
-Don't like to get involved in other people's problems.	0	X103	0	0	0	0	0	-1
-Have little sympathy for the unemployed.	0	A51	0	0	0	0	0	-1
+item	ipip_id	POSITIVE EXPRESSIVITY 	NEGATIVE EXPRESSIVITY 	ATTENDING TO EMOTIONS 	EMOTION-BASED DECISION-MAKING 	RESPONSIVE JOY 	RESPONSIVE DISTRESS 	EMPATHIC CONCERN 
+Express my affection physically.	H24	1	0	0	0	0	0	0
+Laugh out loud if something is funny.	A5	1	0	0	0	0	0	0
+Express my happiness in a childlike manner.	A7	1	0	0	0	0	0	0
+Sometimes laugh out loud when reading or watching TV.	A48	1	0	0	0	0	0	0
+Hug my close friends.	A79	1	0	0	0	0	0	0
+Show my feelings when I'm happy.	A139	1	0	0	0	0	0	0
+Find it difficult showing people that I care about them.	A4	-1	0	0	0	0	0	0
+Have difficulty showing affection.	A132	-1	0	0	0	0	0	0
+Keep my happy feelings to myself.	A84	-1	0	0	0	0	0	0
+Shout or scream when I'm angry.	A3	0	1	0	0	0	0	0
+Can't help but look upset when something bad happens.	A14	0	1	0	0	0	0	0
+Show my fear.	A54	0	1	0	0	0	0	0
+Suspect that my facial expressions give me away when I feel sad.	A80	0	1	0	0	0	0	0
+Show my sadness.	A101	0	1	0	0	0	0	0
+Keep my feelings to myself, regardless of how unhappy I am.	A10	0	-1	0	0	0	0	0
+Find it difficult showing people that I'm angry with them.	A12	0	-1	0	0	0	0	0
+Keep my feelings to myself, regardless of how scared I am.	A130	0	-1	0	0	0	0	0
+Rarely show my anger.	A66	0	-1	0	0	0	0	0
+Wish I could more easily show my negative feelings.	A28	0	-1	0	0	0	0	0
+Think about the causes of my emotions.	A33	0	0	1	0	0	0	0
+Pay a lot of attention to my feelings.	A116	0	0	1	0	0	0	0
+Am usually aware of the way that I'm feeling.	A122	0	0	1	0	0	0	0
+Notice my emotions.	A134	0	0	1	0	0	0	0
+Often stop to analyze how I'm feeling.	A142	0	0	1	0	0	0	0
+Rarely think about how I feel.	A87	0	0	-1	0	0	0	0
+Rarely analyze my emotions.	A106	0	0	-1	0	0	0	0
+Am not in touch with my feelings.	E9	0	0	-1	0	0	0	0
+Often ignore my feelings.	X183	0	0	-1	0	0	0	0
+Rarely notice my emotional reactions.	X10	0	0	-1	0	0	0	0
+Listen to my feelings when making important decisions.	A15	0	0	0	1	0	0	0
+Base my goals in life on inspiration, rather than logic.	A26	0	0	0	1	0	0	0
+Plan my life based on how I feel.	A69	0	0	0	1	0	0	0
+Believe emotions give direction to life.		0	0	0	1	0	0	0
+Listen to my heart rather than my brain.	X199	0	0	0	1	0	0	0
+Plan my life logically.	A97	0	0	0	-1	0	0	0
+Believe important decisions should be based on logical reasoning.		0	0	0	-1	0	0	0
+Listen to my brain rather than my heart.	H378	0	0	0	-1	0	0	0
+Make decisions based on facts, not feelings.	A113	0	0	0	-1	0	0	0
+Like to watch children open presents.	A1	0	0	0	0	1	0	0
+Usually end up laughing if the people around me are laughing.	A16	0	0	0	0	1	0	0
+Feel other people's joy.	A63	0	0	0	0	1	0	0
+Get caught up in the excitement when others are celebrating.	A71	0	0	0	0	1	0	0
+Am strongly influenced by the good moods of others.	A72	0	0	0	0	1	0	0
+Find it hard to stay in a bad mood if the people around me are happy.	A76	0	0	0	0	1	0	0
+Dislike being around happy people when I'm feeling sad.	A2	0	0	0	0	-1	0	0
+Am unaffected by other people's happiness.	A11	0	0	0	0	-1	0	0
+Rarely get caught up in the excitement.	A13	0	0	0	0	-1	0	0
+Dislike children's birthday parties.	A42	0	0	0	0	-1	0	0
+Am deeply moved by others' misfortunes.	X253	0	0	0	0	0	1	0
+Am easily moved to tears.	H992	0	0	0	0	0	1	0
+Suffer from others' sorrows.	H988, X65	0	0	0	0	0	1	0
+Am upset by the misfortunes of strangers.	A135	0	0	0	0	0	1	0
+Would be upset if I saw an injured animal.	A46	0	0	0	0	0	1	0
+Am calm even in tense situations.	E64	0	0	0	0	0	-1	0
+Am not easily disturbed by events.	H1046, X11	0	0	0	0	0	-1	0
+Am unaffected by the suffering of others.	A67	0	0	0	0	0	-1	0
+Rarely cry during sad movies.	A56	0	0	0	0	0	-1	0
+Remain calm during emergencies.	A128	0	0	0	0	0	-1	0
+Am concerned about others.	H1100, X31	0	0	0	0	0	0	1
+Feel sympathy for those who are worse off than myself.	E115	0	0	0	0	0	0	1
+Sympathize with the homeless.	X259	0	0	0	0	0	0	1
+Believe that criminals should receive help rather than punishment.	X219	0	0	0	0	0	0	1
+Believe that the poor deserve our sympathy.	A24	0	0	0	0	0	0	1
+Feel little concern for others.	X244	0	0	0	0	0	0	-1
+Have no sympathy for criminals.	E169	0	0	0	0	0	0	-1
+Look down on any weakness.	H435	0	0	0	0	0	0	-1
+Don't like to get involved in other people's problems.	X103	0	0	0	0	0	0	-1
+Have little sympathy for the unemployed.	A51	0	0	0	0	0	0	-1

@@ -1,37 +1,37 @@
 item	BIS (ANXIETY) 	BAS/FUN-SEEKING 	BAS/DRIVE 	BAS/REWARD-RESPONSIVENESS 
 Worry about what people think of me.	1	0	0	0
-Am always worried about something.	-1	0	0	0
-Often worry about things that turn out to be unimportant.	-1	0	0	0
-Am afraid that I will do the wrong thing.	-1	0	0	0
-Am easily hurt.	-1	0	0	0
-Begin to panic when there is danger.	-1	0	0	0
-Become overwhelmed by events.	-1	0	0	0
-Get stressed out easily.	-1	0	0	0
+Am always worried about something.	1	0	0	0
+Often worry about things that turn out to be unimportant.	1	0	0	0
+Am afraid that I will do the wrong thing.	1	0	0	0
+Am easily hurt.	1	0	0	0
+Begin to panic when there is danger.	1	0	0	0
+Become overwhelmed by events.	1	0	0	0
+Get stressed out easily.	1	0	0	0
 Rarely worry.	-1	0	0	0
 Am not embarrassed easily.	-1	0	0	0
 Like to behave spontaneously.	0	1	0	0
-Have persuaded others to do something really adventurous or crazy.	0	-1	0	0
-Am willing to try anything once.	0	-1	0	0
-Like to act on a whim.	0	-1	0	0
-Prefer friends who are excitingly unpredictable.	0	-1	0	0
-Do crazy things.	0	-1	0	0
-Enjoy being reckless.	0	-1	0	0
+Have persuaded others to do something really adventurous or crazy.	0	1	0	0
+Am willing to try anything once.	0	1	0	0
+Like to act on a whim.	0	1	0	0
+Prefer friends who are excitingly unpredictable.	0	1	0	0
+Do crazy things.	0	1	0	0
+Enjoy being reckless.	0	1	0	0
 Would never go hang gliding or bungee jumping.	0	-1	0	0
 Rarely enjoy behaving in a silly manner.	0	-1	0	0
 Avoid dangerous situations.	0	-1	0	0
 Want to be in charge.	0	0	1	0
-Try to surpass others' accomplishments.	0	0	-1	0
-Like to show off my body.	0	0	-1	0
-Know how to get around the rules.	0	0	-1	0
-Have a strong need for power.	0	0	-1	0
-Take charge.	0	0	-1	0
-Push myself very hard to succeed.	0	0	-1	0
+Try to surpass others' accomplishments.	0	0	1	0
+Like to show off my body.	0	0	1	0
+Know how to get around the rules.	0	0	1	0
+Have a strong need for power.	0	0	1	0
+Take charge.	0	0	1	0
+Push myself very hard to succeed.	0	0	1	0
 Am not highly motivated to succeed.	0	0	-1	0
 Am not an extraordinary person.	0	0	-1	0
 Hate being the center of attention.	0	0	-1	0
 Feel excited or happy for no apparent reason.	0	0	0	1
-Get caught up in the excitement when others are celebrating.	0	0	0	-1
-Am eager to soothe hurt feelings.	0	0	0	-1
-Get so happy or energetic that I am almost giddy.	0	0	0	-1
+Get caught up in the excitement when others are celebrating.	0	0	0	1
+Am eager to soothe hurt feelings.	0	0	0	1
+Get so happy or energetic that I am almost giddy.	0	0	0	1
 Rarely get caught up in the excitement.	0	0	0	-1
 Don't get excited about things.	0	0	0	-1

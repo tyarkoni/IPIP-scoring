@@ -1,18 +1,18 @@
 item	Factor I Surgency or Extraversion 	Factor II Agreeableness 	Factor III Conscientiousness 	Factor IV Neuroticismb	Factor V Intellect or Imagination 
 Am the life of the party.	1	0	0	0	0
-Talk to a lot of different people at parties.	-1	0	0	0	0
+Talk to a lot of different people at parties.	1	0	0	0	0
 Don't talk a lot.	-1	0	0	0	0
 Keep in the background.	-1	0	0	0	0
 Sympathize with others' feelings.	0	1	0	0	0
-Feel others' emotions.	0	-1	0	0	0
+Feel others' emotions.	0	1	0	0	0
 Am not really interested in others.	0	-1	0	0	0
 Am not interested in other people's problems.	0	-1	0	0	0
 Get chores done right away.	0	0	1	0	0
-Like order.	0	0	-1	0	0
+Like order.	0	0	1	0	0
 Often forget to put things back in their proper place.	0	0	-1	0	0
 Make a mess of things.	0	0	-1	0	0
 Have frequent mood swings.	0	0	0	1	0
-Get upset easily.	0	0	0	-1	0
+Get upset easily.	0	0	0	1	0
 Am relaxed most of the time.	0	0	0	-1	0
 Seldom feel blue.	0	0	0	-1	0
 Have a vivid imagination.	0	0	0	0	1

@@ -136,11 +136,11 @@ for f in measure_configs:
     for i, (scale, v) in enumerate(scales.items()):
         for sign, sign_items in v.items():
             for text in sign_items:
-                sign = 1 if sign == '+' else -1
+                _sign = 1 if sign == '+' else -1
                 if text not in item_map:
                     counter += 1
                 item_map[text] = counter
-                items.append((scale, i, sign, text, item_map[text]))
+                items.append((scale, i, _sign, text, item_map[text]))
 
     key = np.zeros((counter + 1, len(scales)), dtype=int)
 

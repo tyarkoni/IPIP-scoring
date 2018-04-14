@@ -1,67 +1,67 @@
 item	POSITIVE EXPRESSIVITY	NEGATIVE EXPRESSIVITY	ATTENDING TO EMOTIONS	EMOTION-BASED DECISION-MAKING	RESPONSIVE JOY	RESPONSIVE DISTRESS	EMPATHIC CONCERN
 Express my affection physically.	1	0	0	0	0	0	0
-Laugh out loud if something is funny.	-1	0	0	0	0	0	0
-Express my happiness in a childlike manner.	-1	0	0	0	0	0	0
-Sometimes laugh out loud when reading or watching TV.	-1	0	0	0	0	0	0
-Hug my close friends.	-1	0	0	0	0	0	0
-Show my feelings when I'm happy.	-1	0	0	0	0	0	0
+Laugh out loud if something is funny.	1	0	0	0	0	0	0
+Express my happiness in a childlike manner.	1	0	0	0	0	0	0
+Sometimes laugh out loud when reading or watching TV.	1	0	0	0	0	0	0
+Hug my close friends.	1	0	0	0	0	0	0
+Show my feelings when I'm happy.	1	0	0	0	0	0	0
 Find it difficult showing people that I care about them.	-1	0	0	0	0	0	0
 Have difficulty showing affection.	-1	0	0	0	0	0	0
 Keep my happy feelings to myself.	-1	0	0	0	0	0	0
 Shout or scream when I'm angry.	0	1	0	0	0	0	0
-Can't help but look upset when something bad happens.	0	-1	0	0	0	0	0
-Show my fear.	0	-1	0	0	0	0	0
-Suspect that my facial expressions give me away when I feel sad.	0	-1	0	0	0	0	0
-Show my sadness.	0	-1	0	0	0	0	0
+Can't help but look upset when something bad happens.	0	1	0	0	0	0	0
+Show my fear.	0	1	0	0	0	0	0
+Suspect that my facial expressions give me away when I feel sad.	0	1	0	0	0	0	0
+Show my sadness.	0	1	0	0	0	0	0
 Keep my feelings to myself, regardless of how unhappy I am.	0	-1	0	0	0	0	0
 Find it difficult showing people that I'm angry with them.	0	-1	0	0	0	0	0
 Keep my feelings to myself, regardless of how scared I am.	0	-1	0	0	0	0	0
 Rarely show my anger.	0	-1	0	0	0	0	0
 Wish I could more easily show my negative feelings.	0	-1	0	0	0	0	0
 Think about the causes of my emotions.	0	0	1	0	0	0	0
-Pay a lot of attention to my feelings.	0	0	-1	0	0	0	0
-Am usually aware of the way that I'm feeling.	0	0	-1	0	0	0	0
-Notice my emotions.	0	0	-1	0	0	0	0
-Often stop to analyze how I'm feeling.	0	0	-1	0	0	0	0
+Pay a lot of attention to my feelings.	0	0	1	0	0	0	0
+Am usually aware of the way that I'm feeling.	0	0	1	0	0	0	0
+Notice my emotions.	0	0	1	0	0	0	0
+Often stop to analyze how I'm feeling.	0	0	1	0	0	0	0
 Rarely think about how I feel.	0	0	-1	0	0	0	0
 Rarely analyze my emotions.	0	0	-1	0	0	0	0
 Am not in touch with my feelings.	0	0	-1	0	0	0	0
 Often ignore my feelings.	0	0	-1	0	0	0	0
 Rarely notice my emotional reactions.	0	0	-1	0	0	0	0
 Listen to my feelings when making important decisions.	0	0	0	1	0	0	0
-Base my goals in life on inspiration, rather than logic.	0	0	0	-1	0	0	0
-Plan my life based on how I feel.	0	0	0	-1	0	0	0
-Believe emotions give direction to life.	0	0	0	-1	0	0	0
-Listen to my heart rather than my brain.	0	0	0	-1	0	0	0
+Base my goals in life on inspiration, rather than logic.	0	0	0	1	0	0	0
+Plan my life based on how I feel.	0	0	0	1	0	0	0
+Believe emotions give direction to life.	0	0	0	1	0	0	0
+Listen to my heart rather than my brain.	0	0	0	1	0	0	0
 Plan my life logically.	0	0	0	-1	0	0	0
 Believe important decisions should be based on logical reasoning.	0	0	0	-1	0	0	0
 Listen to my brain rather than my heart.	0	0	0	-1	0	0	0
 Make decisions based on facts, not feelings.	0	0	0	-1	0	0	0
 Like to watch children open presents.	0	0	0	0	1	0	0
-Usually end up laughing if the people around me are laughing.	0	0	0	0	-1	0	0
-Feel other people's joy.	0	0	0	0	-1	0	0
-Get caught up in the excitement when others are celebrating.	0	0	0	0	-1	0	0
-Am strongly influenced by the good moods of others.	0	0	0	0	-1	0	0
-Find it hard to stay in a bad mood if the people around me are happy.	0	0	0	0	-1	0	0
+Usually end up laughing if the people around me are laughing.	0	0	0	0	1	0	0
+Feel other people's joy.	0	0	0	0	1	0	0
+Get caught up in the excitement when others are celebrating.	0	0	0	0	1	0	0
+Am strongly influenced by the good moods of others.	0	0	0	0	1	0	0
+Find it hard to stay in a bad mood if the people around me are happy.	0	0	0	0	1	0	0
 Dislike being around happy people when I'm feeling sad.	0	0	0	0	-1	0	0
 Am unaffected by other people's happiness.	0	0	0	0	-1	0	0
 Rarely get caught up in the excitement.	0	0	0	0	-1	0	0
 Dislike children's birthday parties.	0	0	0	0	-1	0	0
 Am deeply moved by others' misfortunes.	0	0	0	0	0	1	0
-Am easily moved to tears.	0	0	0	0	0	-1	0
-Suffer from others' sorrows.	0	0	0	0	0	-1	0
-Am upset by the misfortunes of strangers.	0	0	0	0	0	-1	0
-Would be upset if I saw an injured animal.	0	0	0	0	0	-1	0
+Am easily moved to tears.	0	0	0	0	0	1	0
+Suffer from others' sorrows.	0	0	0	0	0	1	0
+Am upset by the misfortunes of strangers.	0	0	0	0	0	1	0
+Would be upset if I saw an injured animal.	0	0	0	0	0	1	0
 Am calm even in tense situations.	0	0	0	0	0	-1	0
 Am not easily disturbed by events.	0	0	0	0	0	-1	0
 Am unaffected by the suffering of others.	0	0	0	0	0	-1	0
 Rarely cry during sad movies.	0	0	0	0	0	-1	0
 Remain calm during emergencies.	0	0	0	0	0	-1	0
 Am concerned about others.	0	0	0	0	0	0	1
-Feel sympathy for those who are worse off than myself.	0	0	0	0	0	0	-1
-Sympathize with the homeless.	0	0	0	0	0	0	-1
-Believe that criminals should receive help rather than punishment.	0	0	0	0	0	0	-1
-Believe that the poor deserve our sympathy.	0	0	0	0	0	0	-1
+Feel sympathy for those who are worse off than myself.	0	0	0	0	0	0	1
+Sympathize with the homeless.	0	0	0	0	0	0	1
+Believe that criminals should receive help rather than punishment.	0	0	0	0	0	0	1
+Believe that the poor deserve our sympathy.	0	0	0	0	0	0	1
 Feel little concern for others.	0	0	0	0	0	0	-1
 Have no sympathy for criminals.	0	0	0	0	0	0	-1
 Look down on any weakness.	0	0	0	0	0	0	-1

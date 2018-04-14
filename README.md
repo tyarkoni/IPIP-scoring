@@ -1,0 +1,5 @@
+# Scoring matrices for multi-construct IPIP inventories
+
+This repo contains Python code that generates matrix-form scoring keys for most of the multi-construct inventories found on the [IPIP website](https://ipip.ori.org/newMultipleconstructs.htm). Input HTML keys are scraped from the IPIP website; differences in inventory formats are accounted for via the JSON configuration files (one per target inventory) found in `config/`. Scoring keys are written out to `keys/`. Each output file contains scales in columns and IPIP items in rows.
+
+Note that there are minor errors in the keys for a few inventories, due to problems with the HTML on the IPIP website (e.g., multiple items are occasionally entered into the same table cell, causing parser errors). I'll fix these when I have time, but for the time being, it's probably quicker to fix the keys manually.

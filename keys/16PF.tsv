@@ -1,164 +1,164 @@
-item	WARMTH(16PF Factor A: Warmth) 	INTELLECT(Factor B: Reasoning) 	EMOTIONAL STABILITY(Factor C: Emotional Stability) 	ASSERTIVENESS(Factor E: Dominance) 	GREGARIOUSNESS(Factor F: Liveliness) 	DUTIFULNESS(Factor G: Rule-Consciousness) 	FRIENDLINESS(Factor H: Social Boldness) 	SENSITIVITY(Factor I: Sensitivity) 	DISTRUST(Factor L: Vigilance) 	IMAGINATION(Factor M: Abstractedness) 	RESERVE(Factor N: Privateness) 	ANXIETY(Factor O: Apprehension) 	COMPLEXITY(Factor Q1: Openness to Change) 	INTROVERSION(Factor Q2: Self-Reliance) 	ORDERLINESS(Factor Q3: Perfectionism) 	EMOTIONALITY(Factor Q4: Tension) 
-Know how to comfort others.	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Enjoy bringing people together.	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Feel others' emotions.	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Take an interest in other people's lives.	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Cheer people up.	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Make people feel at ease.	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Take time out for others.	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Don't like to get involved in other people's problems.	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Am not really interested in others.	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Try not to think about the needy.	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Make insightful remarks.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Know the answers to many questions.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Tend to analyze things.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Use my brain.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Learn quickly.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Counter others' arguments.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Reflect on things before acting.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Weigh the pros against the cons.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Consider myself an average person.	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Get confused easily.	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Know that I am not a special person.	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Have a poor vocabulary.	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Skip difficult words while reading.	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
-Seldom feel blue.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-Feel comfortable with myself.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-Readily overcome setbacks.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-Am relaxed most of the time.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-Am not easily frustrated.	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
-Have frequent mood swings.	0	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0
-Often feel blue.	0	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0
-Dislike myself.	0	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0
-Feel desperate.	0	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0
-Am easily discouraged.	0	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0
-Take charge.	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
-Want to be in charge.	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
-Say what I think.	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
-Am not afraid of providing criticism.	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
-Take control of things.	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
-Can take strong measures.	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
-Wait for others to lead the way.	0	0	0	-1	0	0	0	0	0	0	0	0	0	0	0	0
-Never challenge things.	0	0	0	-1	0	0	0	0	0	0	0	0	0	0	0	0
-Let others make the decisions.	0	0	0	-1	0	0	0	0	0	0	0	0	0	0	0	0
-Let myself be pushed around.	0	0	0	-1	0	0	0	0	0	0	0	0	0	0	0	0
-Am the life of the party.	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-Love large parties.	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-Joke around a lot.	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-Enjoy being part of a loud crowd.	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-Amuse my friends.	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-Act wild and crazy.	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
-Seldom joke around.	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	0	0
-Don't like crowded events.	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	0	0
-Am the last to laugh at a joke.	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	0	0
-Dislike loud music.	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	0	0
-Believe laws should be strictly enforced.	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-Try to follow the rules.	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-Believe in one true religion.	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-Respect authority.	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-Like to stand during the national anthem.	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-Resist authority.	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	0
-Break rules.	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	0
-Use swear words.	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	0
-Oppose authority.	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	0
-Know how to get around the rules.	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	0
-Feel comfortable around people.	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
-Talk to a lot of different people at parties.	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
-Don't mind being the center of attention.	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
-Make friends easily.	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
-Start conversations.	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
-Find it difficult to approach others.	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0
-Often feel uncomfortable around others.	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0
-Have little to say.	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0
-Am quiet around strangers.	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0
-Keep in the background.	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0
-Like to read.	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-Enjoy discussing movies and books with others.	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-Read a lot.	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-Don't like action movies.	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-Cry during movies.	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-Love flowers.	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
-Do not enjoy watching dance performances.	0	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0
-Do not like poetry.	0	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0
-Dislike works of fiction.	0	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0
-Rarely notice my emotional reactions.	0	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0
-Find it hard to forgive others.	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-Suspect hidden motives in others.	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-Am wary of others.	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-Distrust people.	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-Believe that people seldom tell you the whole truth.	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-Believe that people are essentially evil.	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-Trust what people say.	0	0	0	0	0	0	0	0	-1	0	0	0	0	0	0	0
-Trust others.	0	0	0	0	0	0	0	0	-1	0	0	0	0	0	0	0
-Believe that others have good intentions.	0	0	0	0	0	0	0	0	-1	0	0	0	0	0	0	0
-Believe that people are basically moral.	0	0	0	0	0	0	0	0	-1	0	0	0	0	0	0	0
-Do things that others find strange.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-Like to get lost in thought.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-Enjoy wild flights of fantasy.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-Love to daydream.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-Swim against the current.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-Take deviant positions.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-Do unexpected things.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
-Do things by the book.	0	0	0	0	0	0	0	0	0	-1	0	0	0	0	0	0
-Seldom daydream.	0	0	0	0	0	0	0	0	0	-1	0	0	0	0	0	0
-Seldom get lost in thought.	0	0	0	0	0	0	0	0	0	-1	0	0	0	0	0	0
-Reveal little about myself.	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
-Am hard to get to know.	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
-Don't talk a lot.	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
-Bottle up my feelings.	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
-Keep my thoughts to myself.	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
-Am open about myself to others.	0	0	0	0	0	0	0	0	0	0	-1	0	0	0	0	0
-Am open about my feelings.	0	0	0	0	0	0	0	0	0	0	-1	0	0	0	0	0
-Disclose my intimate thoughts.	0	0	0	0	0	0	0	0	0	0	-1	0	0	0	0	0
-Show my feelings.	0	0	0	0	0	0	0	0	0	0	-1	0	0	0	0	0
-Am willing to talk about myself.	0	0	0	0	0	0	0	0	0	0	-1	0	0	0	0	0
-Am afraid that I will do the wrong thing.	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-Feel threatened easily.	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-Am easily hurt.	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-Worry about things.	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-Spend time thinking about past mistakes.	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-"Feel guilty when I say ""no."""	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-Feel crushed by setbacks.	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
-Don't worry about things that have already happened.	0	0	0	0	0	0	0	0	0	0	0	-1	0	0	0	0
-Am not easily bothered by things.	0	0	0	0	0	0	0	0	0	0	0	-1	0	0	0	0
-Don't let others discourage me.	0	0	0	0	0	0	0	0	0	0	0	-1	0	0	0	0
-Believe in the importance of art.	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-Love to think up new ways of doing things.	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-Enjoy hearing new ideas.	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-Carry the conversation to a higher level.	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-Prefer variety to routine.	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
-Avoid philosophical discussions.	0	0	0	0	0	0	0	0	0	0	0	0	-1	0	0	0
-Rarely look for a deeper meaning in things.	0	0	0	0	0	0	0	0	0	0	0	0	-1	0	0	0
-Am not interested in theoretical discussions.	0	0	0	0	0	0	0	0	0	0	0	0	-1	0	0	0
-Am not interested in abstract ideas.	0	0	0	0	0	0	0	0	0	0	0	0	-1	0	0	0
-Try to avoid complex people.	0	0	0	0	0	0	0	0	0	0	0	0	-1	0	0	0
-Want to be left alone.	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-Prefer to do things by myself.	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-Enjoy spending time by myself.	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-Seek quiet.	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-Don't mind eating alone.	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-Enjoy silence.	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-Enjoy my privacy.	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
-Enjoy being part of a group.	0	0	0	0	0	0	0	0	0	0	0	0	0	-1	0	0
-Enjoy teamwork.	0	0	0	0	0	0	0	0	0	0	0	0	0	-1	0	0
-Can't do without the company of others.	0	0	0	0	0	0	0	0	0	0	0	0	0	-1	0	0
-"Want everything to be ""just right."""	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-Get chores done right away.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-Like order.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-Continue until everything is perfect.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-Am exacting in my work.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
-Am not bothered by messy people.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-1	0
-Am not bothered by disorder.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-1	0
-Leave a mess in my room.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-1	0
-Leave my belongings around.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-1	0
-Put off unpleasant tasks.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-1	0
-Get irritated easily.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
-Get angry easily.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
-Am quick to judge others.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
-Am annoyed by others' mistakes.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
-Am easily put out.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
-Can't stand being contradicted.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
-Judge people by their appearance.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
-Am not easily annoyed.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-1
-Try to forgive and forget.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-1
-Have a good word for everyone.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-1
+item	WARMTH (16PF Factor A: Warmth) 	ipip_id	INTELLECT (Factor B: Reasoning) 	EMOTIONAL STABILITY (Factor C: Emotional Stability) 	ASSERTIVENESS (Factor E: Dominance) 	GREGARIOUSNESS (Factor F: Liveliness) 	DUTIFULNESS (Factor G: Rule-Consciousness) 	FRIENDLINESS (Factor H: Social Boldness) 	SENSITIVITY (Factor I: Sensitivity) 	DISTRUST (Factor L: Vigilance) 	IMAGINATION (Factor M: Abstractedness) 	RESERVE (Factor N: Privateness) 	ANXIETY (Factor O: Apprehension) 	COMPLEXITY (Factor Q1: Openness to Change) 	INTROVERSION (Factor Q2: Self-Reliance) 	ORDERLINESS (Factor Q3: Perfectionism) 	EMOTIONALITY (Factor Q4: Tension) 
+Know how to comfort others.	1	H173	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Enjoy bringing people together.	1	X161	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Feel others' emotions.	1	E136	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Take an interest in other people's lives.	1	H1129	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cheer people up.	1	H1151	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Make people feel at ease.	1	H107	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Take time out for others.	1	H160	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Don't like to get involved in other people's problems.	-1	X103	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Am not really interested in others.	-1	X165	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Try not to think about the needy.	-1	E166	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Make insightful remarks.	0	H1358	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Know the answers to many questions.	0	H1267	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Tend to analyze things.	0	E125	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Use my brain.	0	H1215	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Learn quickly.	0	H1278	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Counter others' arguments.	0	H1360	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reflect on things before acting.	0	H1218, X67	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Weigh the pros against the cons.	0	H353	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Consider myself an average person.	0	X125	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Get confused easily.	0	H855	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Know that I am not a special person.	0	X234	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Have a poor vocabulary.	0	X28	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Skip difficult words while reading.	0	H1439	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Seldom feel blue.	0	X156	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Feel comfortable with myself.	0	X129	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Readily overcome setbacks.	0	H44	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Am relaxed most of the time.	0	E141	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Am not easily frustrated.	0	X59	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Have frequent mood swings.	0	E92	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Often feel blue.	0	X74	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dislike myself.	0	X15	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Feel desperate.	0	H947	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Am easily discouraged.	0	H647	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Take charge.	0	H334, X27	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Want to be in charge.	0	H793	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Say what I think.	0	H336	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Am not afraid of providing criticism.	0	H459	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Take control of things.	0	H325	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Can take strong measures.	0	H409	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Wait for others to lead the way.	0	H976	0	0	-1	0	0	0	0	0	0	0	0	0	0	0	0
+Never challenge things.	0	H1042	0	0	-1	0	0	0	0	0	0	0	0	0	0	0	0
+Let others make the decisions.	0	H964	0	0	-1	0	0	0	0	0	0	0	0	0	0	0	0
+Let myself be pushed around.	0	H1026	0	0	-1	0	0	0	0	0	0	0	0	0	0	0	0
+Am the life of the party.	0	H34, X94	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Love large parties.	0	H78, X17	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Joke around a lot.	0	H86	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Enjoy being part of a loud crowd.	0	E56	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Amuse my friends.	0	H1093	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Act wild and crazy.	0	H871	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Seldom joke around.	0	X137	0	0	0	-1	0	0	0	0	0	0	0	0	0	0	0
+Don't like crowded events.	0	X99	0	0	0	-1	0	0	0	0	0	0	0	0	0	0	0
+Am the last to laugh at a joke.	0	H1447	0	0	0	-1	0	0	0	0	0	0	0	0	0	0	0
+Dislike loud music.	0	X215	0	0	0	-1	0	0	0	0	0	0	0	0	0	0	0
+Believe laws should be strictly enforced.	0		0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Try to follow the rules.	0	X150	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Believe in one true religion.	0	X35	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Respect authority.	0	H296	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Like to stand during the national anthem.	0	X254	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Resist authority.	0	E45	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	0
+Break rules.	0	H1346	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	0
+Use swear words.	0	E111	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	0
+Oppose authority.	0	H498	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	0
+Know how to get around the rules.	0	H1327	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	0
+Feel comfortable around people.	0	X112	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Talk to a lot of different people at parties.	0	X83	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Don't mind being the center of attention.	0	X78	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Make friends easily.	0	H29	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Start conversations.	0	H16	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Find it difficult to approach others.	0	H592	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0
+Often feel uncomfortable around others.	0	H909	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0
+Have little to say.	0	H1039	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0
+Am quiet around strangers.	0	H661, X260	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0
+Keep in the background.	0	H154, X34	0	0	0	0	0	-1	0	0	0	0	0	0	0	0	0
+Like to read.	0	H2027	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Enjoy discussing movies and books with others.	0	E47	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Read a lot.	0	H2032	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Don't like action movies.	0	X119	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Cry during movies.	0	H2011	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Love flowers.	0	X140	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Do not enjoy watching dance performances.	0	X243	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0
+Do not like poetry.	0	X45	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0
+Dislike works of fiction.	0	X230	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0
+Rarely notice my emotional reactions.	0	X10	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0
+Find it hard to forgive others.	0	X210	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Suspect hidden motives in others.	0	H604	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Am wary of others.	0	H1001	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Distrust people.	0	H1195, X12	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Believe that people seldom tell you the whole truth.	0		0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Believe that people are essentially evil.	0	X80	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Trust what people say.	0	E157	0	0	0	0	0	0	0	-1	0	0	0	0	0	0	0
+Trust others.	0	H113, X6	0	0	0	0	0	0	0	-1	0	0	0	0	0	0	0
+Believe that others have good intentions.	0	H549	0	0	0	0	0	0	0	-1	0	0	0	0	0	0	0
+Believe that people are basically moral.	0	X189	0	0	0	0	0	0	0	-1	0	0	0	0	0	0	0
+Do things that others find strange.	0	H691	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Like to get lost in thought.	0	E163	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Enjoy wild flights of fantasy.	0	X238	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Love to daydream.	0	X71	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Swim against the current.	0	H690	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Take deviant positions.	0	H1090	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Do unexpected things.	0	H893	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Do things by the book.	0	H250	0	0	0	0	0	0	0	0	-1	0	0	0	0	0	0
+Seldom daydream.	0	X135	0	0	0	0	0	0	0	0	-1	0	0	0	0	0	0
+Seldom get lost in thought.	0	X175	0	0	0	0	0	0	0	0	-1	0	0	0	0	0	0
+Reveal little about myself.	0	H601	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Am hard to get to know.	0	H596, X9	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Don't talk a lot.	0	X56	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Bottle up my feelings.	0	H1146	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Keep my thoughts to myself.	0	H588	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Am open about myself to others.	0	X85	0	0	0	0	0	0	0	0	0	-1	0	0	0	0	0
+Am open about my feelings.	0	X148	0	0	0	0	0	0	0	0	0	-1	0	0	0	0	0
+Disclose my intimate thoughts.	0	H2013	0	0	0	0	0	0	0	0	0	-1	0	0	0	0	0
+Show my feelings.	0	H3, X25	0	0	0	0	0	0	0	0	0	-1	0	0	0	0	0
+Am willing to talk about myself.	0	H9	0	0	0	0	0	0	0	0	0	-1	0	0	0	0	0
+Am afraid that I will do the wrong thing.	0	H905	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Feel threatened easily.	0	H612	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Am easily hurt.	0	H987	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Worry about things.	0	H1157, X5	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Spend time thinking about past mistakes.	0	E114	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+"Feel guilty when I say ""no."""	0	E168	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Feel crushed by setbacks.	0	H643	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Don't worry about things that have already happened.	0	E150	0	0	0	0	0	0	0	0	0	0	-1	0	0	0	0
+Am not easily bothered by things.	0	X138	0	0	0	0	0	0	0	0	0	0	-1	0	0	0	0
+Don't let others discourage me.	0	H368	0	0	0	0	0	0	0	0	0	0	-1	0	0	0	0
+Believe in the importance of art.	0	X123	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Love to think up new ways of doing things.	0	X225	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Enjoy hearing new ideas.	0	X166	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Carry the conversation to a higher level.	0	H1227	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Prefer variety to routine.	0	X204	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Avoid philosophical discussions.	0	X248	0	0	0	0	0	0	0	0	0	0	0	-1	0	0	0
+Rarely look for a deeper meaning in things.	0	E77	0	0	0	0	0	0	0	0	0	0	0	-1	0	0	0
+Am not interested in theoretical discussions.	0	X239	0	0	0	0	0	0	0	0	0	0	0	-1	0	0	0
+Am not interested in abstract ideas.	0	X228	0	0	0	0	0	0	0	0	0	0	0	-1	0	0	0
+Try to avoid complex people.	0	E171	0	0	0	0	0	0	0	0	0	0	0	-1	0	0	0
+Want to be left alone.	0	H660	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Prefer to do things by myself.	0	H682	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Enjoy spending time by myself.	0	X88	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Seek quiet.	0	H602	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Don't mind eating alone.	0	E72	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Enjoy silence.	0	E94	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Enjoy my privacy.	0	E83	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Enjoy being part of a group.	0	H2016, V58	0	0	0	0	0	0	0	0	0	0	0	0	-1	0	0
+Enjoy teamwork.	0	X271	0	0	0	0	0	0	0	0	0	0	0	0	-1	0	0
+Can't do without the company of others.	0	H965	0	0	0	0	0	0	0	0	0	0	0	0	-1	0	0
+"Want everything to be ""just right."""	0	E11	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Get chores done right away.	0	E119	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Like order.	0	X118	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Continue until everything is perfect.	0	H286	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Am exacting in my work.	0	X163	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Am not bothered by messy people.	0	E100	0	0	0	0	0	0	0	0	0	0	0	0	0	-1	0
+Am not bothered by disorder.	0	E7	0	0	0	0	0	0	0	0	0	0	0	0	0	-1	0
+Leave a mess in my room.	0	H822, X16	0	0	0	0	0	0	0	0	0	0	0	0	0	-1	0
+Leave my belongings around.	0	H823	0	0	0	0	0	0	0	0	0	0	0	0	0	-1	0
+Put off unpleasant tasks.	0	E132	0	0	0	0	0	0	0	0	0	0	0	0	0	-1	0
+Get irritated easily.	0	H761	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Get angry easily.	0	H754, X18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Am quick to judge others.	0	E65	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Am annoyed by others' mistakes.	0	E82	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Am easily put out.	0	H641	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Can't stand being contradicted.	0	H292	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Judge people by their appearance.	0	E69	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Am not easily annoyed.	0	X23	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-1
+Try to forgive and forget.	0	E126	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-1
+Have a good word for everyone.	0	H22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-1

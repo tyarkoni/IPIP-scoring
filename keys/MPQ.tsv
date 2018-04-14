@@ -1,128 +1,128 @@
-item	JOYFULNESS(MPQ Wellbeing [WB]) 	POWER-SEEKING(MPQ Social Potency [SP]) 	ACHIEVEMENT-SEEKING(MPQ Achievement [AC]) 	FRIENDLINESS(MPQ Social Closeness [SC]) 	EMOTIONAL INSTABILITY(MPQ Stress Reaction [SR]) 	BELLIGERENCE(MPQ Aggression [AG]) 	DISTRUST(MPQ Alienation [AL]) 	PLANFULNESS(MPQ Control [CO]) 	RISK-AVOIDANCE(MPQ Harmavoidance [HA]) 	CONSERVATISM(MPQ Traditionalism [TR]) 	IMAGINATION(MPQ Absorption [AB]) 	UNLIKELY VIRTUES(MPQ Unlikely Virtues [UV]) 
-Have a lot of fun.	1	0	0	0	0	0	0	0	0	0	0	0
-Love life.	1	0	0	0	0	0	0	0	0	0	0	0
-Radiate joy.	1	0	0	0	0	0	0	0	0	0	0	0
-Feel lucky most of the time.	1	0	0	0	0	0	0	0	0	0	0	0
-Just know that I will be a success.	1	0	0	0	0	0	0	0	0	0	0	0
-Often feel blue.	-1	0	0	0	0	0	0	0	0	0	0	0
-Am often in a bad mood.	-1	0	0	0	0	0	0	0	0	0	0	0
-Feel that my life lacks direction.	-1	0	0	0	0	0	0	0	0	0	0	0
-Have a dark outlook on the future.	-1	0	0	0	0	0	0	0	0	0	0	0
-Have a low opinion of myself.	-1	0	0	0	0	0	0	0	0	0	0	0
-Have a natural talent for influencing people.	0	1	0	0	0	0	0	0	0	0	0	0
-Take charge.	0	1	0	0	0	0	0	0	0	0	0	0
-See myself as a good leader.	0	1	0	0	0	0	0	0	0	0	0	0
-Can talk others into doing things.	0	1	0	0	0	0	0	0	0	0	0	0
-Am good at making impromptu speeches.	0	1	0	0	0	0	0	0	0	0	0	0
-Don't like to draw attention to myself.	0	-1	0	0	0	0	0	0	0	0	0	0
-Lack the talent for influencing people.	0	-1	0	0	0	0	0	0	0	0	0	0
-Keep in the background.	0	-1	0	0	0	0	0	0	0	0	0	0
-Find it difficult to manipulate others.	0	-1	0	0	0	0	0	0	0	0	0	0
-Have little to say.	0	-1	0	0	0	0	0	0	0	0	0	0
-Work hard.	0	0	1	0	0	0	0	0	0	0	0	0
-Do more than what's expected of me.	0	0	1	0	0	0	0	0	0	0	0	0
-Continue until everything is perfect.	0	0	1	0	0	0	0	0	0	0	0	0
-Excel in what I do.	0	0	1	0	0	0	0	0	0	0	0	0
-Work too much.	0	0	1	0	0	0	0	0	0	0	0	0
-Plunge into tasks with all my heart.	0	0	1	0	0	0	0	0	0	0	0	0
-Do just enough work to get by.	0	0	-1	0	0	0	0	0	0	0	0	0
-Am not highly motivated to succeed.	0	0	-1	0	0	0	0	0	0	0	0	0
-Do too little work.	0	0	-1	0	0	0	0	0	0	0	0	0
-Have a slow pace to my life.	0	0	-1	0	0	0	0	0	0	0	0	0
-Make friends easily.	0	0	0	1	0	0	0	0	0	0	0	0
-Love to chat.	0	0	0	1	0	0	0	0	0	0	0	0
-Enjoy being part of a group.	0	0	0	1	0	0	0	0	0	0	0	0
-Warm up quickly to others.	0	0	0	1	0	0	0	0	0	0	0	0
-Am open about my feelings.	0	0	0	1	0	0	0	0	0	0	0	0
-Want to be left alone.	0	0	0	-1	0	0	0	0	0	0	0	0
-Avoid contacts with others.	0	0	0	-1	0	0	0	0	0	0	0	0
-Am hard to get to know.	0	0	0	-1	0	0	0	0	0	0	0	0
-Keep others at a distance.	0	0	0	-1	0	0	0	0	0	0	0	0
-Avoid company.	0	0	0	-1	0	0	0	0	0	0	0	0
-Have frequent mood swings.	0	0	0	0	1	0	0	0	0	0	0	0
-Get stressed out easily.	0	0	0	0	1	0	0	0	0	0	0	0
-Worry about things.	0	0	0	0	1	0	0	0	0	0	0	0
-Panic easily.	0	0	0	0	1	0	0	0	0	0	0	0
-Am filled with doubts about things.	0	0	0	0	1	0	0	0	0	0	0	0
-Seldom feel blue.	0	0	0	0	-1	0	0	0	0	0	0	0
-Am relaxed most of the time.	0	0	0	0	-1	0	0	0	0	0	0	0
-Am not easily bothered by things.	0	0	0	0	-1	0	0	0	0	0	0	0
-Feel comfortable with myself.	0	0	0	0	-1	0	0	0	0	0	0	0
-Don't worry about things that have already happened.	0	0	0	0	-1	0	0	0	0	0	0	0
-Get back at others.	0	0	0	0	0	1	0	0	0	0	0	0
-Hold a grudge.	0	0	0	0	0	1	0	0	0	0	0	0
-Do things out of revenge.	0	0	0	0	0	1	0	0	0	0	0	0
-Cheat to get ahead.	0	0	0	0	0	1	0	0	0	0	0	0
-Have a sharp tongue.	0	0	0	0	0	1	0	0	0	0	0	0
-Would never take things that aren't mine.	0	0	0	0	0	-1	0	0	0	0	0	0
-Seldom get mad.	0	0	0	0	0	-1	0	0	0	0	0	0
-Try to forgive and forget.	0	0	0	0	0	-1	0	0	0	0	0	0
-Rarely get irritated.	0	0	0	0	0	-1	0	0	0	0	0	0
-Rarely complain.	0	0	0	0	0	-1	0	0	0	0	0	0
-Feel attacked by others.	0	0	0	0	0	0	1	0	0	0	0	0
-Feel short-changed in life.	0	0	0	0	0	0	1	0	0	0	0	0
-Suspect hidden motives in others.	0	0	0	0	0	0	1	0	0	0	0	0
-Distrust people.	0	0	0	0	0	0	1	0	0	0	0	0
-Feel that people have a hard time understanding me.	0	0	0	0	0	0	1	0	0	0	0	0
-Dislike myself.	0	0	0	0	0	0	1	0	0	0	0	0
-Am wary of others.	0	0	0	0	0	0	1	0	0	0	0	0
-Act comfortably with others.	0	0	0	0	0	0	-1	0	0	0	0	0
-Trust what people say.	0	0	0	0	0	0	-1	0	0	0	0	0
-Trust others.	0	0	0	0	0	0	-1	0	0	0	0	0
-Like to plan ahead.	0	0	0	0	0	0	0	1	0	0	0	0
-Do things by the book.	0	0	0	0	0	0	0	1	0	0	0	0
-Am exacting in my work.	0	0	0	0	0	0	0	1	0	0	0	0
-Pay attention to details.	0	0	0	0	0	0	0	1	0	0	0	0
-Make plans and stick to them.	0	0	0	0	0	0	0	1	0	0	0	0
-Jump into things without thinking.	0	0	0	0	0	0	0	-1	0	0	0	0
-Like to act on a whim.	0	0	0	0	0	0	0	-1	0	0	0	0
-Often make last-minute plans.	0	0	0	0	0	0	0	-1	0	0	0	0
-Make rash decisions.	0	0	0	0	0	0	0	-1	0	0	0	0
-Make a mess of things.	0	0	0	0	0	0	0	-1	0	0	0	0
-Would never go hang gliding or bungee jumping.	0	0	0	0	0	0	0	0	1	0	0	0
-Would never make a high-risk investment.	0	0	0	0	0	0	0	0	1	0	0	0
-Avoid dangerous situations.	0	0	0	0	0	0	0	0	1	0	0	0
-Seek danger.	0	0	0	0	0	0	0	0	-1	0	0	0
-Am willing to try anything once.	0	0	0	0	0	0	0	0	-1	0	0	0
-Do dangerous things.	0	0	0	0	0	0	0	0	-1	0	0	0
-Enjoy being reckless.	0	0	0	0	0	0	0	0	-1	0	0	0
-Seek adventure.	0	0	0	0	0	0	0	0	-1	0	0	0
-Take risks.	0	0	0	0	0	0	0	0	-1	0	0	0
-Do crazy things.	0	0	0	0	0	0	0	0	-1	0	0	0
-Tend to vote for conservative political candidates.	0	0	0	0	0	0	0	0	0	1	0	0
-Believe in one true religion.	0	0	0	0	0	0	0	0	0	1	0	0
-Believe laws should be strictly enforced.	0	0	0	0	0	0	0	0	0	1	0	0
-Believe that we should be tough on crime.	0	0	0	0	0	0	0	0	0	1	0	0
-Like to stand during the national anthem.	0	0	0	0	0	0	0	0	0	1	0	0
-Tend to vote for liberal political candidates.	0	0	0	0	0	0	0	0	0	-1	0	0
-Don't consider myself religious.	0	0	0	0	0	0	0	0	0	-1	0	0
-Believe that criminals should receive help rather than punishment.	0	0	0	0	0	0	0	0	0	-1	0	0
-Believe in the importance of art.	0	0	0	0	0	0	0	0	0	-1	0	0
-Believe that there is no absolute right and wrong.	0	0	0	0	0	0	0	0	0	-1	0	0
-See beauty in things that others might not notice.	0	0	0	0	0	0	0	0	0	0	1	0
-Enjoy wild flights of fantasy.	0	0	0	0	0	0	0	0	0	0	1	0
-Like to get lost in thought.	0	0	0	0	0	0	0	0	0	0	1	0
-Love to reflect on things.	0	0	0	0	0	0	0	0	0	0	1	0
-Have a vivid imagination.	0	0	0	0	0	0	0	0	0	0	1	0
-Love to daydream.	0	0	0	0	0	0	0	0	0	0	1	0
-Do not like poetry.	0	0	0	0	0	0	0	0	0	0	-1	0
-Do not like art.	0	0	0	0	0	0	0	0	0	0	-1	0
-Seldom get lost in thought.	0	0	0	0	0	0	0	0	0	0	-1	0
-Rarely look for a deeper meaning in things.	0	0	0	0	0	0	0	0	0	0	-1	0
-Always admit it when I make a mistake.	0	0	0	0	0	0	0	0	0	0	0	1
-Never give up hope.	0	0	0	0	0	0	0	0	0	0	0	1
-Know that anyone who tries can get a job.	0	0	0	0	0	0	0	0	0	0	0	1
-Always know why I do things.	0	0	0	0	0	0	0	0	0	0	0	1
-Never give up.	0	0	0	0	0	0	0	0	0	0	0	1
-Know immediately what to do.	0	0	0	0	0	0	0	0	0	0	0	1
-Believe there is never an excuse for lying.	0	0	0	0	0	0	0	0	0	0	0	1
-Always know what I am doing.	0	0	0	0	0	0	0	0	0	0	0	1
-Am always ready to start afresh.	0	0	0	0	0	0	0	0	0	0	0	1
-Have never engaged in gossip.	0	0	0	0	0	0	0	0	0	0	0	1
-Will do anything for others.	0	0	0	0	0	0	0	0	0	0	0	1
-Am always prepared.	0	0	0	0	0	0	0	0	0	0	0	1
-Don't always practice what I preach.	0	0	0	0	0	0	0	0	0	0	0	-1
-Have some bad habits.	0	0	0	0	0	0	0	0	0	0	0	-1
-Have sometimes had to tell a lie.	0	0	0	0	0	0	0	0	0	0	0	-1
-Am not always honest with myself.	0	0	0	0	0	0	0	0	0	0	0	-1
-Am not always what I appear to be.	0	0	0	0	0	0	0	0	0	0	0	-1
+item	JOYFULNESS (MPQ Wellbeing [WB]) 	ipip_id	POWER-SEEKING (MPQ Social Potency [SP]) 	ACHIEVEMENT-SEEKING (MPQ Achievement [AC]) 	FRIENDLINESS (MPQ Social Closeness [SC]) 	EMOTIONAL INSTABILITY (MPQ Stress Reaction [SR]) 	BELLIGERENCE (MPQ Aggression [AG]) 	DISTRUST (MPQ Alienation [AL]) 	PLANFULNESS (MPQ Control [CO]) 	RISK-AVOIDANCE (MPQ Harmavoidance [HA]) 	CONSERVATISM (MPQ Traditionalism [TR]) 	IMAGINATION (MPQ Absorption [AB]) 	UNLIKELY VIRTUES (MPQ Unlikely Virtues [UV]) 
+Have a lot of fun.	1	H1094	0	0	0	0	0	0	0	0	0	0	0
+Love life.	1	H33	0	0	0	0	0	0	0	0	0	0	0
+Radiate joy.	1	H32, X63	0	0	0	0	0	0	0	0	0	0	0
+Feel lucky most of the time.	1	H2020	0	0	0	0	0	0	0	0	0	0	0
+Just know that I will be a success.	1	P379	0	0	0	0	0	0	0	0	0	0	0
+Often feel blue.	-1	X74	0	0	0	0	0	0	0	0	0	0	0
+Am often in a bad mood.	-1	X84	0	0	0	0	0	0	0	0	0	0	0
+Feel that my life lacks direction.	-1	X205	0	0	0	0	0	0	0	0	0	0	0
+Have a dark outlook on the future.	-1	H639	0	0	0	0	0	0	0	0	0	0	0
+Have a low opinion of myself.	-1	H646, X152	0	0	0	0	0	0	0	0	0	0	0
+Have a natural talent for influencing people.	0	P432	1	0	0	0	0	0	0	0	0	0	0
+Take charge.	0	H334, X27	1	0	0	0	0	0	0	0	0	0	0
+See myself as a good leader.	0	P439	1	0	0	0	0	0	0	0	0	0	0
+Can talk others into doing things.	0	H1137	1	0	0	0	0	0	0	0	0	0	0
+Am good at making impromptu speeches.	0	P364	1	0	0	0	0	0	0	0	0	0	0
+Don't like to draw attention to myself.	0	X68	-1	0	0	0	0	0	0	0	0	0	0
+Lack the talent for influencing people.	0	P346	-1	0	0	0	0	0	0	0	0	0	0
+Keep in the background.	0	H154, X34	-1	0	0	0	0	0	0	0	0	0	0
+Find it difficult to manipulate others.	0	P461	-1	0	0	0	0	0	0	0	0	0	0
+Have little to say.	0	H1039	-1	0	0	0	0	0	0	0	0	0	0
+Work hard.	0	H1206, X44	0	1	0	0	0	0	0	0	0	0	0
+Do more than what's expected of me.	0	H2014	0	1	0	0	0	0	0	0	0	0	0
+Continue until everything is perfect.	0	H286	0	1	0	0	0	0	0	0	0	0	0
+Excel in what I do.	0	H1174, X8	0	1	0	0	0	0	0	0	0	0	0
+Work too much.	0	P484	0	1	0	0	0	0	0	0	0	0	0
+Plunge into tasks with all my heart.	0	H69	0	1	0	0	0	0	0	0	0	0	0
+Do just enough work to get by.	0	X115	0	-1	0	0	0	0	0	0	0	0	0
+Am not highly motivated to succeed.	0	X110	0	-1	0	0	0	0	0	0	0	0	0
+Do too little work.	0	P385	0	-1	0	0	0	0	0	0	0	0	0
+Have a slow pace to my life.	0	P477	0	-1	0	0	0	0	0	0	0	0	0
+Make friends easily.	0	H29	0	0	1	0	0	0	0	0	0	0	0
+Love to chat.	0	H1095	0	0	1	0	0	0	0	0	0	0	0
+Enjoy being part of a group.	0	H2016, V58	0	0	1	0	0	0	0	0	0	0	0
+Warm up quickly to others.	0	H52, X1	0	0	1	0	0	0	0	0	0	0	0
+Am open about my feelings.	0	X148	0	0	1	0	0	0	0	0	0	0	0
+Want to be left alone.	0	H660	0	0	-1	0	0	0	0	0	0	0	0
+Avoid contacts with others.	0	H648	0	0	-1	0	0	0	0	0	0	0	0
+Am hard to get to know.	0	H596, X9	0	0	-1	0	0	0	0	0	0	0	0
+Keep others at a distance.	0	H704	0	0	-1	0	0	0	0	0	0	0	0
+Avoid company.	0	H598	0	0	-1	0	0	0	0	0	0	0	0
+Have frequent mood swings.	0	E92	0	0	0	1	0	0	0	0	0	0	0
+Get stressed out easily.	0	X107	0	0	0	1	0	0	0	0	0	0	0
+Worry about things.	0	H1157, X5	0	0	0	1	0	0	0	0	0	0	0
+Panic easily.	0	H948, X64	0	0	0	1	0	0	0	0	0	0	0
+Am filled with doubts about things.	0	H683	0	0	0	1	0	0	0	0	0	0	0
+Seldom feel blue.	0	X156	0	0	0	-1	0	0	0	0	0	0	0
+Am relaxed most of the time.	0	E141	0	0	0	-1	0	0	0	0	0	0	0
+Am not easily bothered by things.	0	X138	0	0	0	-1	0	0	0	0	0	0	0
+Feel comfortable with myself.	0	X129	0	0	0	-1	0	0	0	0	0	0	0
+Don't worry about things that have already happened.	0	E150	0	0	0	-1	0	0	0	0	0	0	0
+Get back at others.	0	H699	0	0	0	0	1	0	0	0	0	0	0
+Hold a grudge.	0	X217	0	0	0	0	1	0	0	0	0	0	0
+Do things out of revenge.	0	H710	0	0	0	0	1	0	0	0	0	0	0
+Cheat to get ahead.	0	X198	0	0	0	0	1	0	0	0	0	0	0
+Have a sharp tongue.	0	H917	0	0	0	0	1	0	0	0	0	0	0
+Would never take things that aren't mine.	0	P367	0	0	0	0	-1	0	0	0	0	0	0
+Seldom get mad.	0	X231	0	0	0	0	-1	0	0	0	0	0	0
+Try to forgive and forget.	0	E126	0	0	0	0	-1	0	0	0	0	0	0
+Rarely get irritated.	0	X265	0	0	0	0	-1	0	0	0	0	0	0
+Rarely complain.	0	E120	0	0	0	0	-1	0	0	0	0	0	0
+Feel attacked by others.	0	H914	0	0	0	0	0	1	0	0	0	0	0
+Feel short-changed in life.	0	H617	0	0	0	0	0	1	0	0	0	0	0
+Suspect hidden motives in others.	0	H604	0	0	0	0	0	1	0	0	0	0	0
+Distrust people.	0	H1195, X12	0	0	0	0	0	1	0	0	0	0	0
+Feel that people have a hard time understanding me.	0	E159	0	0	0	0	0	1	0	0	0	0	0
+Dislike myself.	0	X15	0	0	0	0	0	1	0	0	0	0	0
+Am wary of others.	0	H1001	0	0	0	0	0	1	0	0	0	0	0
+Act comfortably with others.	0	H41	0	0	0	0	0	-1	0	0	0	0	0
+Trust what people say.	0	E157	0	0	0	0	0	-1	0	0	0	0	0
+Trust others.	0	H113, X6	0	0	0	0	0	-1	0	0	0	0	0
+Like to plan ahead.	0	X171	0	0	0	0	0	0	1	0	0	0	0
+Do things by the book.	0	H250	0	0	0	0	0	0	1	0	0	0	0
+Am exacting in my work.	0	X163	0	0	0	0	0	0	1	0	0	0	0
+Pay attention to details.	0	H1362, X249	0	0	0	0	0	0	1	0	0	0	0
+Make plans and stick to them.	0	X263	0	0	0	0	0	0	1	0	0	0	0
+Jump into things without thinking.	0	E46	0	0	0	0	0	0	-1	0	0	0	0
+Like to act on a whim.	0	E122	0	0	0	0	0	0	-1	0	0	0	0
+Often make last-minute plans.	0	E66	0	0	0	0	0	0	-1	0	0	0	0
+Make rash decisions.	0	H853	0	0	0	0	0	0	-1	0	0	0	0
+Make a mess of things.	0	H1467	0	0	0	0	0	0	-1	0	0	0	0
+Would never go hang gliding or bungee jumping.	0		0	0	0	0	0	0	0	1	0	0	0
+Would never make a high-risk investment.	0	E71	0	0	0	0	0	0	0	1	0	0	0
+Avoid dangerous situations.	0	H317	0	0	0	0	0	0	0	1	0	0	0
+Seek danger.	0	H894	0	0	0	0	0	0	0	-1	0	0	0
+Am willing to try anything once.	0	X3	0	0	0	0	0	0	0	-1	0	0	0
+Do dangerous things.	0	H876	0	0	0	0	0	0	0	-1	0	0	0
+Enjoy being reckless.	0	E35	0	0	0	0	0	0	0	-1	0	0	0
+Seek adventure.	0	H446	0	0	0	0	0	0	0	-1	0	0	0
+Take risks.	0	H864	0	0	0	0	0	0	0	-1	0	0	0
+Do crazy things.	0	H870	0	0	0	0	0	0	0	-1	0	0	0
+Tend to vote for conservative political candidates.	0	X126	0	0	0	0	0	0	0	0	1	0	0
+Believe in one true religion.	0	X35	0	0	0	0	0	0	0	0	1	0	0
+Believe laws should be strictly enforced.	0		0	0	0	0	0	0	0	0	1	0	0
+Believe that we should be tough on crime.	0	X157	0	0	0	0	0	0	0	0	1	0	0
+Like to stand during the national anthem.	0	X254	0	0	0	0	0	0	0	0	1	0	0
+Tend to vote for liberal political candidates.	0	X218	0	0	0	0	0	0	0	0	-1	0	0
+Don't consider myself religious.	0	P488	0	0	0	0	0	0	0	0	-1	0	0
+Believe that criminals should receive help rather than punishment.	0	X219	0	0	0	0	0	0	0	0	-1	0	0
+Believe in the importance of art.	0	X123	0	0	0	0	0	0	0	0	-1	0	0
+Believe that there is no absolute right and wrong.	0	X184	0	0	0	0	0	0	0	0	-1	0	0
+See beauty in things that others might not notice.	0	E105	0	0	0	0	0	0	0	0	0	1	0
+Enjoy wild flights of fantasy.	0	X238	0	0	0	0	0	0	0	0	0	1	0
+Like to get lost in thought.	0	E163	0	0	0	0	0	0	0	0	0	1	0
+Love to reflect on things.	0	H1210	0	0	0	0	0	0	0	0	0	1	0
+Have a vivid imagination.	0	X14	0	0	0	0	0	0	0	0	0	1	0
+Love to daydream.	0	X71	0	0	0	0	0	0	0	0	0	1	0
+Do not like poetry.	0	X45	0	0	0	0	0	0	0	0	0	-1	0
+Do not like art.	0	X86	0	0	0	0	0	0	0	0	0	-1	0
+Seldom get lost in thought.	0	X175	0	0	0	0	0	0	0	0	0	-1	0
+Rarely look for a deeper meaning in things.	0	E77	0	0	0	0	0	0	0	0	0	-1	0
+Always admit it when I make a mistake.	0	P454	0	0	0	0	0	0	0	0	0	0	1
+Never give up hope.	0	X102	0	0	0	0	0	0	0	0	0	0	1
+Know that anyone who tries can get a job.	0	X182	0	0	0	0	0	0	0	0	0	0	1
+Always know why I do things.	0	P433	0	0	0	0	0	0	0	0	0	0	1
+Never give up.	0	H556	0	0	0	0	0	0	0	0	0	0	1
+Know immediately what to do.	0	H403	0	0	0	0	0	0	0	0	0	0	1
+Believe there is never an excuse for lying.	0		0	0	0	0	0	0	0	0	0	0	1
+Always know what I am doing.	0	P427	0	0	0	0	0	0	0	0	0	0	1
+Am always ready to start afresh.	0	H440	0	0	0	0	0	0	0	0	0	0	1
+Have never engaged in gossip.	0	P413	0	0	0	0	0	0	0	0	0	0	1
+Will do anything for others.	0	H198	0	0	0	0	0	0	0	0	0	0	1
+Am always prepared.	0	X87	0	0	0	0	0	0	0	0	0	0	1
+Don't always practice what I preach.	0	P481	0	0	0	0	0	0	0	0	0	0	-1
+Have some bad habits.	0	P478	0	0	0	0	0	0	0	0	0	0	-1
+Have sometimes had to tell a lie.	0	P356	0	0	0	0	0	0	0	0	0	0	-1
+Am not always honest with myself.	0	P490	0	0	0	0	0	0	0	0	0	0	-1
+Am not always what I appear to be.	0	P447	0	0	0	0	0	0	0	0	0	0	-1

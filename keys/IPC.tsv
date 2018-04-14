@@ -1,33 +1,33 @@
-item	Dominant	Calculating	Hearted	Introverted	Submissive	Ingenuous	Agreeable	Extraverted
-Demand to be the center of interest	1	0	0	0	0	0	0	0
-Do most of the talking	1	0	0	0	0	0	0	0
-Speak loudly	1	0	0	0	0	0	0	0
-Demand attention	1	0	0	0	0	0	0	0
-Cut others to pieces	0	1	0	0	0	0	0	0
-Contradict others	0	1	0	0	0	0	0	0
-Snap at people	0	1	0	0	0	0	0	0
-Have a sharp tongue	0	1	0	0	0	0	0	0
-Believe people should fend for themselves	0	0	1	0	0	0	0	0
-Don't fall for sob-stories	0	0	1	0	0	0	0	0
-Don't put a lot of thought into things	0	0	1	0	0	0	0	0
-Am not interested in other people's problems	0	0	1	0	0	0	0	0
-Am quiet around strangers	0	0	0	1	0	0	0	0
-Am a very private person	0	0	0	1	0	0	0	0
-Don't talk a lot	0	0	0	1	0	0	0	0
-Have little to say	0	0	0	1	0	0	0	0
-Speak softly	0	0	0	0	1	0	0	0
-Let others finish what they are saying	0	0	0	0	1	0	0	0
-Seldom toot my own horn	0	0	0	0	1	0	0	0
-Dislike being the center of attention	0	0	0	0	1	0	0	0
-Tolerate a lot from others	0	0	0	0	0	1	0	0
-Take things as they come	0	0	0	0	0	1	0	0
-Think of others first	0	0	0	0	0	1	0	0
-Seldom stretch the truth	0	0	0	0	0	1	0	0
-Am interested in people	0	0	0	0	0	0	1	0
-Reassure others	0	0	0	0	0	0	1	0
-Inquire about others' well-being	0	0	0	0	0	0	1	0
-Get along well with others	0	0	0	0	0	0	1	0
-Feel comfortable around people	0	0	0	0	0	0	0	1
-Start conversations	0	0	0	0	0	0	0	1
-Talk to a lot of different people at parties	0	0	0	0	0	0	0	1
-Love large parties	0	0	0	0	0	0	0	1
+item	Dominant	ipip_id	Calculating	Hearted	Introverted	Submissive	Ingenuous	Agreeable	Extraverted
+Demand to be the center of interest	1	H769	0	0	0	0	0	0	0
+Do most of the talking	1	H4	0	0	0	0	0	0	0
+Speak loudly	1	H527	0	0	0	0	0	0	0
+Demand attention	1	H525	0	0	0	0	0	0	0
+Cut others to pieces	0	H422	1	0	0	0	0	0	0
+Contradict others	0	H808	1	0	0	0	0	0	0
+Snap at people	0	H1085	1	0	0	0	0	0	0
+Have a sharp tongue	0	H917	1	0	0	0	0	0	0
+Believe people should fend for themselves	0		0	1	0	0	0	0	0
+Don't fall for sob-stories	0	X185	0	1	0	0	0	0	0
+Don't put a lot of thought into things	0	E179	0	1	0	0	0	0	0
+Am not interested in other people's problems	0	X227	0	1	0	0	0	0	0
+Am quiet around strangers	0	H661, X260	0	0	1	0	0	0	0
+Am a very private person	0	H589	0	0	1	0	0	0	0
+Don't talk a lot	0	X56	0	0	1	0	0	0	0
+Have little to say	0	H1039	0	0	1	0	0	0	0
+Speak softly	0	H548	0	0	0	1	0	0	0
+Let others finish what they are saying	0	H162	0	0	0	1	0	0	0
+Seldom toot my own horn	0	X247	0	0	0	1	0	0	0
+Dislike being the center of attention	0	X169	0	0	0	1	0	0	0
+Tolerate a lot from others	0	H1170	0	0	0	0	1	0	0
+Take things as they come	0	E144	0	0	0	0	1	0	0
+Think of others first	0	H126	0	0	0	0	1	0	0
+Seldom stretch the truth	0	X195	0	0	0	0	1	0	0
+Am interested in people	0	H21	0	0	0	0	0	1	0
+Reassure others	0	H1120	0	0	0	0	0	1	0
+Inquire about others' well-being	0	H225	0	0	0	0	0	1	0
+Get along well with others	0	H31	0	0	0	0	0	1	0
+Feel comfortable around people	0	X112	0	0	0	0	0	0	1
+Start conversations	0	H16	0	0	0	0	0	0	1
+Talk to a lot of different people at parties	0	X83	0	0	0	0	0	0	1
+Love large parties	0	H78, X17	0	0	0	0	0	0	1

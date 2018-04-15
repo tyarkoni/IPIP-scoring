@@ -27,6 +27,7 @@ import json
 from collections import defaultdict, OrderedDict
 from glob import glob
 import warnings
+from os.path import join
 
 
 # Include column for IPIP item IDs in keys?
@@ -47,7 +48,7 @@ if not os.path.exists('keys'):
     os.mkdir('keys')
 
 # Default config
-default_config = json.load(open(os.path.join('configs', 'default.json'), 'r'))
+default_config = json.load(open(join('configs', 'default.json'), 'r'))
 
 # Read config files
 measure_configs = glob('configs/*.json')
@@ -55,12 +56,20 @@ measure_configs = glob('configs/*.json')
 # Read IPIP items if we'll need them later. Remove punctuation/casing to
 # increase odds of matching
 if INCLUDE_IPIP_ID:
-    ipip_items = pd.read_csv(os.path.join('support', 'ipip_items.txt'),
-                             sep='\t', names=['text', 'id'])
+    ipip_items = pd.read_csv(join('support', 'ipip_items.txt'), sep='\t',
+                             names=['text', 'id'])
     ipip_items['text'] = ipip_items['text'].str.lower() \
-                                           .str.replace('[^a-zA-Z0-9\s]+', '')
+                                           .str.replace('[^\w\-\s]+', '')
     ipip_items = ipip_items.set_index('text')
 
+    # There are typos/phrasing errors in some items, so remap these
+    remap_items = pd.read_csv(join('support', 'remap_items.txt'), sep='\t')
+    remap_items = dict(remap_items.values)
+
+# At least one measure has broken HTML that combines items into one cell;
+# we need to split these.
+items_to_split = pd.read_csv(join('support', 'merged_items.txt'), sep='\t')
+items_to_split = dict(items_to_split.values)
 
 # Loop over measure and create keys
 for f in measure_configs:
@@ -144,8 +153,16 @@ for f in measure_configs:
 
         # Check if this is a regular item, and if so, add it
         elif re.search(config['item'], text):
+
             text = re.sub('[\[\]]+', '', text)
             text = re.search(config['extract_item'], text).group(1)
+
+            # split incorrectly merged items in two
+            if text in items_to_split:
+                first = items_to_split[text]
+                scales[title][sign].append(first)
+                text = text.replace(first, '').strip()
+
             scales[title][sign].append(text)
 
     # Convert key to DF form
@@ -179,7 +196,12 @@ for f in measure_configs:
     # Optionally add column for IPIP item IDs
     if INCLUDE_IPIP_ID:
         _index = df.index.copy()
-        df.index = df.index.str.lower().str.replace('[^a-zA-Z0-9\s]+', '')
+        df.index = df.index.str.lower().str.replace('[^\w\-\s]+', '')
+
+        # Replace broken items
+        df.index = [remap_items[x] if x in remap_items else x
+                    for x in df.index]
+
         df = df.merge(ipip_items, left_index=True, right_index=True,
                       how='left')
         df.insert(0, 'ipip_id', df.pop('id'))
@@ -198,5 +220,4 @@ for f in measure_configs:
         df.index = _index
 
     # Save
-    df.to_csv(os.path.join('keys', '%s.tsv' % name), sep='\t',
-              index_label='item')
+    df.to_csv(join('keys', '%s.tsv' % name), sep='\t', index_label='item')

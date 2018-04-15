@@ -79,7 +79,7 @@ Like to act on a whim.	E122	0	0	0	0	0	0	0	-1	0	0	0	0
 Often make last-minute plans.	E66	0	0	0	0	0	0	0	-1	0	0	0	0
 Make rash decisions.	H853	0	0	0	0	0	0	0	-1	0	0	0	0
 Make a mess of things.	H1467	0	0	0	0	0	0	0	-1	0	0	0	0
-Would never go hang gliding or bungee jumping.		0	0	0	0	0	0	0	0	1	0	0	0
+Would never go hang gliding or bungee jumping.	X250	0	0	0	0	0	0	0	0	1	0	0	0
 Would never make a high-risk investment.	E71	0	0	0	0	0	0	0	0	1	0	0	0
 Avoid dangerous situations.	H317	0	0	0	0	0	0	0	0	1	0	0	0
 Seek danger.	H894	0	0	0	0	0	0	0	0	-1	0	0	0
@@ -91,7 +91,7 @@ Take risks.	H864	0	0	0	0	0	0	0	0	-1	0	0	0
 Do crazy things.	H870	0	0	0	0	0	0	0	0	-1	0	0	0
 Tend to vote for conservative political candidates.	X126	0	0	0	0	0	0	0	0	0	1	0	0
 Believe in one true religion.	X35	0	0	0	0	0	0	0	0	0	1	0	0
-Believe laws should be strictly enforced.		0	0	0	0	0	0	0	0	0	1	0	0
+Believe laws should be strictly enforced.	X178	0	0	0	0	0	0	0	0	0	1	0	0
 Believe that we should be tough on crime.	X157	0	0	0	0	0	0	0	0	0	1	0	0
 Like to stand during the national anthem.	X254	0	0	0	0	0	0	0	0	0	1	0	0
 Tend to vote for liberal political candidates.	X218	0	0	0	0	0	0	0	0	0	-1	0	0
@@ -115,7 +115,7 @@ Know that anyone who tries can get a job.	X182	0	0	0	0	0	0	0	0	0	0	0	1
 Always know why I do things.	P433	0	0	0	0	0	0	0	0	0	0	0	1
 Never give up.	H556	0	0	0	0	0	0	0	0	0	0	0	1
 Know immediately what to do.	H403	0	0	0	0	0	0	0	0	0	0	0	1
-Believe there is never an excuse for lying.		0	0	0	0	0	0	0	0	0	0	0	1
+Believe there is never an excuse for lying.	P383	0	0	0	0	0	0	0	0	0	0	0	1
 Always know what I am doing.	P427	0	0	0	0	0	0	0	0	0	0	0	1
 Am always ready to start afresh.	H440	0	0	0	0	0	0	0	0	0	0	0	1
 Have never engaged in gossip.	P413	0	0	0	0	0	0	0	0	0	0	0	1

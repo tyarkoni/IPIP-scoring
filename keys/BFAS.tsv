@@ -31,7 +31,7 @@ Take no time for others.	H918, X170	0	0	-1	0	0	0	0	0	0	0
 Don't have a soft side.	E143	0	0	-1	0	0	0	0	0	0	0
 Respect authority.	H296	0	0	0	1	0	0	0	0	0	0
 Hate to seem pushy.	E31	0	0	0	1	0	0	0	0	0	0
-Avoid imposing my will on others.a		0	0	0	1	0	0	0	0	0	0
+Avoid imposing my will on others.a	Q178	0	0	0	1	0	0	0	0	0	0
 Rarely put people under pressure.b		0	0	0	1	0	0	0	0	0	0
 Insult people.	H1103	0	0	0	-1	0	0	0	0	0	0
 Believe that I am better than others.	H736, X61	0	0	0	-1	0	0	0	0	0	0
@@ -68,7 +68,7 @@ Am hard to get to know.	H596, X9	0	0	0	0	0	0	-1	0	0	0
 Keep others at a distance.	H704	0	0	0	0	0	0	-1	0	0	0
 Reveal little about myself.	H601	0	0	0	0	0	0	-1	0	0	0
 Rarely get caught up in the excitement.	A13	0	0	0	0	0	0	-1	0	0	0
-Am not a very enthusiastic person.c		0	0	0	0	0	0	-1	0	0	0
+Am not a very enthusiastic person.c	Y1	0	0	0	0	0	0	-1	0	0	0
 Take charge.	H334, X27	0	0	0	0	0	0	0	1	0	0
 Have a strong personality.	Q14	0	0	0	0	0	0	0	1	0	0
 Know how to captivate people.	H1110	0	0	0	0	0	0	0	1	0	0

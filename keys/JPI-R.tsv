@@ -44,7 +44,7 @@ Am deeply moved by others' misfortunes.	X253	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
 Am easily moved to tears.	H992	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
 Cry easily.	H2012	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
 Experience my emotions intensely.	X92	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
-Feel spiritally connected to other people.		0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Feel spiritally connected to other people.	P365	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
 Don't understand people who get emotional.	E156	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	0
 Am not interested in other people's problems.	X227	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	0
 Seldom get emotional.	X29	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	0
@@ -65,7 +65,7 @@ Want to amount to something special in others' eyes.	P436	0	0	0	0	0	0	1	0	0	0	0	
 Do what others do.	H1049	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
 Don't care what others think.	E134	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0
 Am not concerned with making a good impression.	P397	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0
-Feel it's OK that some people don't like me.		0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0
+Feel it's OK that some people don't like me.	P354	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0
 Want to form my own opinions.	H1221	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0
 Want to be different from others.	H510	0	0	0	0	0	0	-1	0	0	0	0	0	0	0	0
 Enjoy bringing people together.	X161	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
@@ -108,7 +108,7 @@ Know how to get around the rules.	H1327	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
 Am willing to try anything once.	X3	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
 Seek adventure.	H446	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
 Would never go hang-gliding or bungee-jumping.	X250	0	0	0	0	0	0	0	0	0	0	0	-1	0	0	0
-Would never make a high risk investment.		0	0	0	0	0	0	0	0	0	0	0	-1	0	0	0
+Would never make a high risk investment.	E71	0	0	0	0	0	0	0	0	0	0	0	-1	0	0	0
 Stick to the rules.	H294	0	0	0	0	0	0	0	0	0	0	0	-1	0	0	0
 Avoid dangerous situations.	H317	0	0	0	0	0	0	0	0	0	0	0	-1	0	0	0
 Get chores done right away.	E119	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
@@ -137,7 +137,7 @@ Would never take things that aren't mine.	P367	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
 Stay in touch with old acquaintances.	E91	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
 Think of others first.	H126	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
 Cheat to get ahead.	X198	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-1
-Don't think laws apply to me.		0	0	0	0	0	0	0	0	0	0	0	0	0	0	-1
+Don't think laws apply to me.	H579	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-1
 Believe that I am better than others.	H736, X61	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-1
 Disregard rules.	H88	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-1
 Hurt people.	H1125	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-1

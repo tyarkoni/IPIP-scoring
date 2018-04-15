@@ -3,7 +3,7 @@ Am open about my feelings.	X148	1	0	0	0	0	0	0
 Take charge.	H334, X27	1	0	0	0	0	0	0
 Talk to a lot of different people at parties.	X83	1	0	0	0	0	0	0
 Make friends easily.	H29	1	0	0	0	0	0	0
-Never at a loss for words.		1	0	0	0	0	0	0
+Never at a loss for words.	H1302	1	0	0	0	0	0	0
 Don't talk a lot.	X56	-1	0	0	0	0	0	0
 Keep in the background.	H154, X34	-1	0	0	0	0	0	0
 Speak softly.	H548	-1	0	0	0	0	0	0
@@ -21,7 +21,7 @@ Am not interested in other people's problems.	X227	0	-1	0	0	0	0	0
 Find fault with everything.	H1067	0	-1	0	0	0	0	0
 Do things by the book.	H250	0	0	1	0	0	0	0
 Try to follow the rules.	X150	0	0	1	0	0	0	0
-Believe laws should be strictly enforced.		0	0	1	0	0	0	0
+Believe laws should be strictly enforced.	X178	0	0	1	0	0	0	0
 Pay attention to details.	H1362, X249	0	0	1	0	0	0	0
 Like order.	X118	0	0	1	0	0	0	0
 Act wild and crazy.	H871	0	0	-1	0	0	0	0
@@ -40,7 +40,7 @@ Get stressed out easily.	X107	0	0	0	-1	0	0	0
 Have frequent mood swings.	E92	0	0	0	-1	0	0	0
 Feel desperate.	H947	0	0	0	-1	0	0	0
 Have excellent ideas.	H1313	0	0	0	0	1	0	0
-Quick to understand things.		0	0	0	0	1	0	0
+Quick to understand things.	X100	0	0	0	0	1	0	0
 Have a rich vocabulary.	H1276, X245	0	0	0	0	1	0	0
 Use my brain.	H1215	0	0	0	0	1	0	0
 Carry the conversation to a higher level.	H1227	0	0	0	0	1	0	0

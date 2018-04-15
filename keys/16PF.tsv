@@ -52,7 +52,7 @@ Seldom joke around.	X137	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	0	0
 Don't like crowded events.	X99	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	0	0
 Am the last to laugh at a joke.	H1447	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	0	0
 Dislike loud music.	X215	0	0	0	0	-1	0	0	0	0	0	0	0	0	0	0	0
-Believe laws should be strictly enforced.		0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Believe laws should be strictly enforced.	X178	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
 Try to follow the rules.	X150	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
 Believe in one true religion.	X35	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
 Respect authority.	H296	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
@@ -86,7 +86,7 @@ Find it hard to forgive others.	X210	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
 Suspect hidden motives in others.	H604	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
 Am wary of others.	H1001	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
 Distrust people.	H1195, X12	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
-Believe that people seldom tell you the whole truth.		0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Believe that people seldom tell you the whole truth.	X139	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
 Believe that people are essentially evil.	X80	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
 Trust what people say.	E157	0	0	0	0	0	0	0	0	-1	0	0	0	0	0	0	0
 Trust others.	H113, X6	0	0	0	0	0	0	0	0	-1	0	0	0	0	0	0	0

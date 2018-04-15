@@ -4,5 +4,5 @@
 	"start_line": "^Stability",
 	"end_line": "^Return to",
 	"extract_title": "(.*?)\\[",
-	"skip": "Lower-Level"
+	"skip": "(Lower-Level)|(No.*ve items\\.)"
 }

@@ -3,5 +3,6 @@
 	"scale_title": "^[IV].*[+-]\\/[IV].*\\d{2,}",
 	"start_line": "^I+",
 	"end_line": "Note.",
-	"extract_title": "([A-Z\\-]*)$"
+	"extract_title": "([A-Z\\-]*)$",
+	"skip": "No.*ive items\\."
 }

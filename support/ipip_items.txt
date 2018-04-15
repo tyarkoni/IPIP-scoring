@@ -575,7 +575,7 @@ Avoid company.	H598
 Avoid contacts with others.	H648
 Avoid crowds.	H650, X22
 Avoid dangerous situations.	H317
-Avoid dealing with awkward situation.	V47
+Avoid dealing with awkward situations.	V47
 Avoid dealing with uncomfortable emotions.	V29
 Avoid demonstrating my skills for fear of being embarrassed.	S13
 Avoid difficult reading material.	X109
